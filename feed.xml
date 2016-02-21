@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd">
+  <channel>
+    <title>アジャイルラジオ</title>
+    <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
+    <link>http://agileradio.github.io/</link>
+    <pubDate>Sun, 21 Feb 2016 08:39:59 +0000</pubDate>
+    <lastBuildDate>Sun, 21 Feb 2016 08:39:59 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
+    <itunes:author>AgileRadio</itunes:author>
+    <itunes:summary>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</itunes:summary>
+    <itunes:owner>
+    <itunes:name>アジャイルラジオ</itunes:name>
+    <itunes:email/>
+    </itunes:owner>
+    <itunes:image href="http://agileradio.github.io/assets/img/agileradio_banner_1400x1400.jpg" />
+    <itunes:category text="Technology">
+    <itunes:category text="Software"/>
+    <itunes:category text="Agile"/>
+    </itunes:category>
+
+    
+      
+      <item>
+        <title>アジャイルサムライが再びやってきた！西村直人さん登場！</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2015/12/28/1/&quot;&gt;Episode 4&lt;/a&gt; で登場いただきましたアジャイルサムライこと西村直人さんがまたまた登場！  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.agileteam.jp/&quot;&gt;アジャイルチームを支える会&lt;/a&gt; の話や、&lt;a href=&quot;https://www.facebook.com/TaoOfScrum&quot;&gt;スクラム道&lt;/a&gt; の現在の状況について、コミュニティーに関するお話をいっぱいぶっちゃけていただきました  &lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Feb 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/02/22/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/02/22/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio.github.io/assets/mp3/ar_008.mp3" length="9135033" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>楽天の川口さん再登場！</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2015/12/07/1/&quot;&gt;Episode 2&lt;/a&gt; で登場いただきました楽天の川口さんがまたまた降臨しました  &lt;/p&gt;
+
+&lt;p&gt;川口さんの幼少の頃からのエピソード満載です  &lt;/p&gt;
+
+&lt;p&gt;昔話とゲームの話に花が咲いて、いつアジャイルの話になるのか聴いててドキドキしますが、要所要所に川口さんらしいエッセンスが盛り込まれてて面白い特別回になりました  &lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/02/08/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/02/08/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio.github.io/assets/mp3/ar_007.mp3" length="15913077" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>あけましておめでとうございます！</title>
+        <description>&lt;p&gt;少し遅くなりましたが、あけましておめでとうございます！&lt;br&gt;
+アジャイルラジオは今年も頑張ってあれこれ語っていきます！  &lt;/p&gt;
+
+&lt;p&gt;まず告知から&lt;br&gt;
+2/11(木祝) Scrumをより良く知るためのイベント&lt;br&gt;
+&lt;strong&gt;スクラム道関西 presents Scrum Boot Camp OSAKA 2016 Winter&lt;/strong&gt;&lt;br&gt;
+を大阪で開催することになりました！&lt;br&gt;
+これからScrumを導入しようと考えている方にむけて、Scrumの全体像とポイントを丸１日かけて学び体験していただけるイベントです&lt;br&gt;
+イベントの詳しい情報はこちらをご確認ください&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.doorkeeper.jp/events/38118&quot;&gt;https://scrumdo-kansai.doorkeeper.jp/events/38118&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;今年初めてのアジャイルラジオの収録だったので今年の抱負を語ったり、先日開催されました &lt;a href=&quot;http://scrumgatheringtokyo.org/&quot;&gt;Regional SCRUM GATHERING® Tokyo&lt;/a&gt; に参加してきたメンバーが感想を話しました  &lt;/p&gt;
+
+&lt;p&gt;ちなみに、今回の収録は &lt;a href=&quot;http://www.msng.info/archives/2015/10/starbucks-meeting-room.php&quot;&gt;スターバックス新大阪ニッセイビル店&lt;/a&gt; をお借りしました&lt;br&gt;
+ひとり１ドリンクで８名までの会議スペースが借りられます&lt;br&gt;
+新大阪から雨に濡れずに行ける立地も魅力的です  &lt;/p&gt;
+
+&lt;p&gt;ちょっと店内の音楽が大きめだったので聴きづらいかも知れませんがご了承ください  &lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/01/25/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/01/25/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio.github.io/assets/mp3/ar_006.mp3" length="13686191" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>アジャイル王子がやってきた！牛尾剛さん登場！</title>
+        <description>&lt;p&gt;MicrosoftのDevOpsエバンジェリストである&lt;a href=&quot;https://twitter.com/sandayuu&quot;&gt;牛尾剛&lt;/a&gt;さんにお越しいただき、DevOpsについて語っていただきました。&lt;br&gt;
+非常に具体的でわかりやすく興味深いお話でした。  &lt;/p&gt;
+
+&lt;p&gt;ちなみに放送中に出てきて書籍『フェニックスプロジェクト』の翻訳本はこちら&lt;br&gt;
+&lt;a href=&quot;http://www.amazon.co.jp/dp/4822285359/&quot;&gt;http://www.amazon.co.jp/dp/4822285359/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;後半に告知がありました DevOps ハッカソン の申し込みはこちらから&lt;br&gt;
+&lt;a href=&quot;http://devopsjp.connpass.com/&quot;&gt;http://devopsjp.connpass.com/&lt;/a&gt;  &lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/01/04/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/01/04/1/</guid>
+        
+        <category>Radio</category>
+        
+        <category>Event</category>
+        
+        
+        <enclosure url="http://agileradio.github.io/assets/mp3/ar_005.mp3" length="12773203" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>アジャイルサムライがやってきた！西村直人さん登場！</title>
+        <description>&lt;p&gt;今回は、&lt;a href=&quot;http://www.amazon.co.jp/dp/4274068560&quot;&gt;アジャイルサムライ&lt;/a&gt;の監訳や&lt;a href=&quot;http://www.amazon.co.jp/dp/4798129712&quot;&gt;SCRUM BOOT CAMP THE BOOK&lt;/a&gt;の著者としてアジャイル界隈でおなじみの&lt;strong&gt;西村直人&lt;/strong&gt;さんがアジャイルラジオにやってきました。&lt;/p&gt;
+
+&lt;p&gt;アジャイルの今後の話から、プライベートな話までいろいろ話してくれました。&lt;/p&gt;
+
+&lt;p&gt;かなりぶっちゃけトークなので楽しんでください！  &lt;/p&gt;
+
+&lt;p&gt;ちょっと深夜ラジオな雰囲気なのはご愛敬（汗）  &lt;/p&gt;
+
+&lt;p&gt;ちなみに、ラジオなのにジェスチャーの話をしてたところはこの話をしていました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://matome.naver.jp/odai/2140084137494424501&quot;&gt;http://matome.naver.jp/odai/2140084137494424501&lt;/a&gt;  &lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2015/12/28/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2015/12/28/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio.github.io/assets/mp3/ar_004.mp3" length="13350773" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>初めてのアジャイル体験はどんなのだった？その２</title>
+        <description>&lt;p&gt;第１回放送に続き、初めてのアジャイル体験ってどんなのだったかな&lt;/p&gt;
+
+&lt;p&gt;スクラム道関西の宇野、開原、田口が話しました。  &lt;/p&gt;
+
+&lt;p&gt;『また来週～』ってまた言っちゃってますが、&lt;/p&gt;
+
+&lt;p&gt;当面不定期放送です。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2015/12/21/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2015/12/21/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio.github.io/assets/mp3/ar_003.mp3" length="12641917" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>楽天の川口さん登場！</title>
+        <description>&lt;p&gt;第２回放送にしてゲストが登場の特別回&lt;/p&gt;
+
+&lt;p&gt;ゲストはアジャイルコーチの楽天の川口さんです&lt;/p&gt;
+
+&lt;p&gt;番組後半には、永瀬美穂さんからスクラムギャザリング東京の告知があります&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://scrumgatheringtokyo.org/&quot;&gt;http://scrumgatheringtokyo.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;スクラムギャザリング東京は、January 18th - 19th 2016 に開催されます&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2015/12/07/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2015/12/07/1/</guid>
+        
+        <category>Radio</category>
+        
+        <category>Event</category>
+        
+        
+        <enclosure url="http://agileradio.github.io/assets/mp3/ar_002.mp3" length="22101811" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>初めてのアジャイル体験はどんなのだった？</title>
+        <description>&lt;p&gt;第１回放送です  &lt;/p&gt;
+
+&lt;p&gt;少しはラジオらしくなったでしょうか  &lt;/p&gt;
+
+&lt;p&gt;今回は、みんな初めてのアジャイル体験ってどんなのだったかなって話をしてみました  &lt;/p&gt;
+
+&lt;p&gt;当面不定期で更新しますが、だいたい２週間毎の更新予定です  &lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2015/11/25/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2015/11/25/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio.github.io/assets/mp3/ar_001.mp3" length="12206392" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+    
+      
+    
+      
+      <item>
+        <title>アジャイルラジオ再始動・・・かも？</title>
+        <description>&lt;p&gt;アジャイルラジオがいよいよ再始動  &lt;/p&gt;
+
+&lt;p&gt;スクラム道関西によるアジャイルラジオです  &lt;/p&gt;
+
+&lt;p&gt;第１回放送のつもりで録音しましたがあまりにグダグダだったので第０回になりました（汗  &lt;/p&gt;
+
+&lt;p&gt;今後ともスクラム道関西とアジャイルラジオをよろしくお願いします&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2015/11/11/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2015/11/11/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio.github.io/assets/mp3/ar_000.mp3" length="9834892" type="audio/mpeg"/>
+      </item>
+      
+    
+  </channel>
+</rss>
