@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 29 Feb 2016 08:43:34 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 08:43:34 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Feb 2016 09:02:20 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Feb 2016 09:02:20 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -37,7 +37,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_008.mp3" length="24268276" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_008.mp3" length="10105999" type="audio/mpeg"/>
       </item>
       
     
