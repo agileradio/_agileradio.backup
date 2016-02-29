@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 29 Feb 2016 07:45:34 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 07:45:34 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Feb 2016 07:58:24 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Feb 2016 07:58:24 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -37,7 +37,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="http://agileradio.github.io/assets/mp3/ar_008.mp3" length="9135033" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_008.mp3" length="9135033" type="audio/mpeg"/>
       </item>
       
     
@@ -57,7 +57,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="http://agileradio.github.io/assets/mp3/ar_007.mp3" length="15913077" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_007.mp3" length="15913077" type="audio/mpeg"/>
       </item>
       
     
@@ -90,7 +90,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="http://agileradio.github.io/assets/mp3/ar_006.mp3" length="13686191" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_006.mp3" length="13686191" type="audio/mpeg"/>
       </item>
       
     
@@ -115,7 +115,7 @@
         <category>Event</category>
         
         
-        <enclosure url="http://agileradio.github.io/assets/mp3/ar_005.mp3" length="12773203" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_005.mp3" length="12773203" type="audio/mpeg"/>
       </item>
       
     
@@ -141,7 +141,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="http://agileradio.github.io/assets/mp3/ar_004.mp3" length="13350773" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_004.mp3" length="13350773" type="audio/mpeg"/>
       </item>
       
     
@@ -163,7 +163,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="http://agileradio.github.io/assets/mp3/ar_003.mp3" length="12641917" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_003.mp3" length="12641917" type="audio/mpeg"/>
       </item>
       
     
@@ -189,7 +189,7 @@
         <category>Event</category>
         
         
-        <enclosure url="http://agileradio.github.io/assets/mp3/ar_002.mp3" length="22101811" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_002.mp3" length="22101811" type="audio/mpeg"/>
       </item>
       
     
@@ -211,7 +211,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="http://agileradio.github.io/assets/mp3/ar_001.mp3" length="12206392" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_001.mp3" length="12206392" type="audio/mpeg"/>
       </item>
       
     
@@ -237,7 +237,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="http://agileradio.github.io/assets/mp3/ar_000.mp3" length="9834892" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_000.mp3" length="9834892" type="audio/mpeg"/>
       </item>
       
     
