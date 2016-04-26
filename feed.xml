@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 18 Apr 2016 04:23:28 +0000</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 04:23:28 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Apr 2016 01:57:58 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Apr 2016 01:57:58 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,28 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>ゲーム業界のアジャイル事情</title>
+        <description>&lt;p&gt;今回は、&lt;a href=&quot;http://cedec.cesa.or.jp/2016/&quot;&gt;CEDEC&lt;/a&gt; の合宿で箱根で収録しました。  &lt;/p&gt;
+
+&lt;p&gt;ゲーム業界で活躍するお二人、&lt;a href=&quot;https://twitter.com/Imagire&quot;&gt;今給黎 隆&lt;/a&gt;さん、&lt;a href=&quot;https://twitter.com/Kokawa_Takashi&quot;&gt;粉川 貴至&lt;/a&gt;さんをお迎えして、ゲーム業界におけるアジャイル事情などのお話をしました。  &lt;/p&gt;
+
+&lt;p&gt;Twitterの&lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt;で、30分ぐらいの長さがいいというご意見をいただいたので少し長めの収録です。録音レベルが少々悪いです。ごめんなさい。&lt;/p&gt;
+
+&lt;p&gt;また &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見等お聞かせください  &lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/05/02/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/05/02/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_013.mp3" length="14790186" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
