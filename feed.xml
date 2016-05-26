@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Thu, 19 May 2016 08:56:33 +0000</pubDate>
-    <lastBuildDate>Thu, 19 May 2016 08:56:33 +0000</lastBuildDate>
+    <pubDate>Thu, 26 May 2016 11:35:21 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2016 11:35:21 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,38 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>コーチングについてコーチが語る その２</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2016/05/16/1/&quot;&gt;前回&lt;/a&gt;に引き続き、福原 美砂さんにゲストでお越しいただきました。
+美砂コーチがコーチになったきっかけを話してもらいました。&lt;br&gt;
+後半のマネジメントに関する話は興味深くいろいろ考えさせられました。&lt;br&gt;
+美砂コーチにご興味をお持ちの方は&lt;a href=&quot;http://www.misa-coach.com/&quot;&gt;オフィス福原のHP&lt;/a&gt;もご覧ください。  &lt;/p&gt;
+
+&lt;p&gt;番組中に告知がありました6/25(土)開催の『傍楽いきいきプロジェクト～職場の景色を変えるワークショップ～』はこちら&lt;br&gt;
+&lt;a href=&quot;http://www.misa-coach.com/event/#436&quot;&gt;http://www.misa-coach.com/event/#436&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;著書 「見えないものをみるチカラ」&lt;br&gt;
+&lt;a href=&quot;http://www.amazon.co.jp/dp/4907197160&quot;&gt;http://www.amazon.co.jp/dp/4907197160&lt;/a&gt;&lt;br&gt;
+本の印税は盲導犬育成団体に寄付されます  &lt;/p&gt;
+
+&lt;p&gt;また &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; 等にご意見ご参考をお聞かせください  &lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/05/30/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/05/30/1/</guid>
+        
+        <category>Radio</category>
+        
+        <category>Event</category>
+        
+        <category>Coach</category>
+        
+        
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_015.mp3" length="16670778" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -45,10 +77,6 @@
         <guid isPermaLink="true">http://agileradio.github.io/2016/05/16/1/</guid>
         
         <category>Radio</category>
-        
-        <category>Event</category>
-        
-        <category>Coach</category>
         
         
         <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_014.mp3" length="18885624" type="audio/mpeg"/>
@@ -148,10 +176,6 @@
         
         <category>Radio</category>
         
-        <category>DevOps</category>
-        
-        <category>Event</category>
-        
         
         <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_009.mp3" length="9800801" type="audio/mpeg"/>
       </item>
@@ -245,8 +269,6 @@
         <guid isPermaLink="true">http://agileradio.github.io/2016/01/04/1/</guid>
         
         <category>Radio</category>
-        
-        <category>DevOps</category>
         
         <category>Event</category>
         
