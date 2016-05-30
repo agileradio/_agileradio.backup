@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 30 May 2016 01:52:44 +0000</pubDate>
-    <lastBuildDate>Mon, 30 May 2016 01:52:44 +0000</lastBuildDate>
+    <pubDate>Mon, 30 May 2016 02:18:18 +0000</pubDate>
+    <lastBuildDate>Mon, 30 May 2016 02:18:18 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -76,6 +76,10 @@
         <guid isPermaLink="true">http://agileradio.github.io/2016/05/16/1/</guid>
         
         <category>Radio</category>
+        
+        <category>Event</category>
+        
+        <category>Coach</category>
         
         
         <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_014.mp3" length="18885624" type="audio/mpeg"/>
@@ -175,6 +179,10 @@
         
         <category>Radio</category>
         
+        <category>DevOps</category>
+        
+        <category>Event</category>
+        
         
         <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_009.mp3" length="9800801" type="audio/mpeg"/>
       </item>
@@ -246,6 +254,8 @@
         
         <category>Radio</category>
         
+        <category>Event</category>
+        
         
         <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_006.mp3" length="38173085" type="audio/mpeg"/>
       </item>
@@ -268,6 +278,8 @@
         <guid isPermaLink="true">http://agileradio.github.io/2016/01/04/1/</guid>
         
         <category>Radio</category>
+        
+        <category>DevOps</category>
         
         <category>Event</category>
         
