@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Fri, 27 May 2016 02:33:13 +0000</pubDate>
-    <lastBuildDate>Fri, 27 May 2016 02:33:13 +0000</lastBuildDate>
+    <pubDate>Mon, 30 May 2016 01:32:12 +0000</pubDate>
+    <lastBuildDate>Mon, 30 May 2016 01:32:12 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -27,7 +27,7 @@
       <item>
         <title>コーチングについてコーチが語る その２</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2016/05/16/1/&quot;&gt;前回&lt;/a&gt;に引き続き、福原 美砂さんにゲストでお越しいただきました。
-美砂コーチがコーチになったきっかけを話してもらいました。&lt;br&gt;
+美砂コーチがコーチになったきっかけや、チームがうまく行くコツなどのお話をしていただきました。&lt;br&gt;
 後半のマネジメントに関する話は興味深くいろいろ考えさせられました。&lt;br&gt;
 美砂コーチにご興味をお持ちの方は&lt;a href=&quot;http://www.misa-coach.com/&quot;&gt;オフィス福原のHP&lt;/a&gt;もご覧ください。  &lt;/p&gt;
 
@@ -51,7 +51,7 @@
         <category>Coach</category>
         
         
-        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_015.mp3" length="16670778" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_015.mp3" length="16467524" type="audio/mpeg"/>
       </item>
       
     
