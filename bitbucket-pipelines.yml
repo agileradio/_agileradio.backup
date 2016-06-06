@@ -1,0 +1,20 @@
+# You can use a Docker image from Docker Hub or your own container
+# registry for your build environment.
+image: ruby:2.3.0
+
+pipelines:
+  default:
+    - step:
+        script:
+          - ruby --version
+          - bundler --version
+          - bundle install
+          - git config user.email "$EMAIL"
+          - git config user.name "$USERNAME"
+          - git clone $REMOTEHOST "$OUTPUT_DIR"
+          - rm -r `ls -dF "$OUTPUT_DIR"/*`
+          - jekyll build -d "$OUTPUT_DIR"
+          - cd "$OUTPUT_DIR"
+          - git add -A
+          - git commit -am 'commit by Bitbucket Pipelines'
+          - git push $REMOTEHOST $BITBUCKET_BRANCH
