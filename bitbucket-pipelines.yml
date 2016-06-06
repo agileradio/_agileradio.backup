@@ -9,6 +9,7 @@ pipelines:
           - ruby --version
           - bundler --version
           - bundle install
+          - gem install jekyll -v 2.5.3
           - git config user.email "$EMAIL"
           - git config user.name "$USERNAME"
           - git clone $REMOTEHOST "$OUTPUT_DIR"
