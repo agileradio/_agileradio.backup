@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 06 Jun 2016 09:53:05 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Jun 2016 09:53:05 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jun 2016 03:33:33 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jun 2016 03:33:33 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,25 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>Agile Japan 2016 参加報告</title>
+        <description>&lt;p&gt;先日開催された &lt;a href=&quot;http://www.agilejapan.org/&quot;&gt;Agile Japan 2016&lt;/a&gt; に山本と開原が参加してきたので雰囲気とか話してもらいました。ふたりは今年の&lt;a href=&quot;https://agilejapanosaka.doorkeeper.jp/events/41429&quot;&gt;大阪サテライト&lt;/a&gt;の運営にも関わっていました。今年も非常に刺激のあるカンファレンスだったようです。田口も行きたかったな。。。  &lt;/p&gt;
+
+&lt;p&gt;また &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください&lt;br&gt;
+番組を締めるときのコールや、塩味付きのゆでたまごの作り方なども募集しております  &lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/06/13/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/06/13/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_016.mp3" length="10591956" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
