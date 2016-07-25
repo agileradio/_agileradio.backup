@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Wed, 13 Jul 2016 08:51:49 +0000</pubDate>
-    <lastBuildDate>Wed, 13 Jul 2016 08:51:49 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Jul 2016 03:32:58 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Jul 2016 03:32:58 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,30 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>牛尾さん またまた登場！</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2016/07/11/1/&quot;&gt;Episode 18&lt;/a&gt; に引き続き&lt;a href=&quot;https://twitter.com/sandayuu&quot;&gt;牛尾剛&lt;/a&gt;さんにお話いただきました。アジャイルラジオのゲストでは最多出場ですね。  &lt;/p&gt;
+
+&lt;p&gt;今回のテーマは『選択する』ことかな。  &lt;/p&gt;
+
+&lt;p&gt;番組の締めのコールは音量がデカいのでご注意を。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/07/25/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/07/25/1/</guid>
+        
+        <category>Radio</category>
+        
+        <category>Event</category>
+        
+        
+        <enclosure url="http://agileradio-assets.s3-website-ap-northeast-1.amazonaws.com/mp3/ar_019.mp3" length="18123412" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
