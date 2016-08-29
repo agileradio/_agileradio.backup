@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Tue, 23 Aug 2016 07:40:33 +0000</pubDate>
-    <lastBuildDate>Tue, 23 Aug 2016 07:40:33 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Aug 2016 02:27:55 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Aug 2016 02:27:55 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,27 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>ヘビーリスナーと遊ぼう♪ その２</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2016/08/15/1/&quot;&gt;前回&lt;/a&gt;に引き続き、今回も「ヘビーリスナーと遊ぼう」というタイトルで、&lt;a href=&quot;https://twitter.com/scrummasudar&quot;&gt;スクラムマスダー&lt;/a&gt;さんと平川さんにゲストとしてお越しいただきました。  &lt;/p&gt;
+
+&lt;p&gt;アジャイルラジオをどんな風に聴いてくれているのか気になるところなので聞いちゃいました。
+あと好きな書籍の話で盛り上がりました。アジャイル界隈の方々は本当に書籍好きな方が多いです。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/08/29/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/08/29/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_021.mp3" length="12617620" type="audio/mpeg"/>
+      </item>
+      
     
       
     
