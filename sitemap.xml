@@ -3,10 +3,16 @@
 
 	<url>
 	 	<loc>http://agileradio.github.io/</loc>
-	 	<lastmod>2016-09-08</lastmod>
+	 	<lastmod>2016-09-12</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
+	
+	<url>
+	 	<loc>http://agileradio.github.io/2016/09/12/1/</loc>
+	 	<lastmod>2016-09-12</lastmod>
+	 	<changefreq>never</changefreq>
+	</url>
 	
 	<url>
 	 	<loc>http://agileradio.github.io/2016/08/29/1/</loc>
@@ -161,7 +167,7 @@
 
 	<url>
 		<loc>http://agileradio.github.io/tags/</loc>
-		<lastmod>2016-09-08</lastmod>
+		<lastmod>2016-09-12</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 
@@ -170,7 +176,7 @@
 	
 	<url>
 		<loc>http://agileradio.github.io/tags/Radio/</loc>
-		<lastmod>2016-09-08</lastmod>
+		<lastmod>2016-09-12</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	
@@ -179,7 +185,7 @@
 	
 	<url>
 		<loc>http://agileradio.github.io/tags/Event/</loc>
-		<lastmod>2016-09-08</lastmod>
+		<lastmod>2016-09-12</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	
@@ -188,7 +194,7 @@
 	
 	<url>
 		<loc>http://agileradio.github.io/tags/DevOps/</loc>
-		<lastmod>2016-09-08</lastmod>
+		<lastmod>2016-09-12</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	
@@ -197,7 +203,7 @@
 	
 	<url>
 		<loc>http://agileradio.github.io/tags/Coach/</loc>
-		<lastmod>2016-09-08</lastmod>
+		<lastmod>2016-09-12</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	
