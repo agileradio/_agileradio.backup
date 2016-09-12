@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 12 Sep 2016 02:26:11 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Sep 2016 02:26:11 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2016 02:31:14 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2016 02:31:14 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -25,9 +25,10 @@
     
       
       <item>
-        <title></title>
-        <description>&lt;p&gt;今回は田口も運営委員として参加している&lt;a href=&quot;http://cedec.cesa.or.jp/&quot;&gt;CEDEC&lt;/a&gt;の参加報告です。ゲーム業界について語りました。&lt;br&gt;
-クックパッドさんのCEDECでの講演スライドはこちらです。本当に面白いセッションでした。&lt;br&gt;
+        <title>CEDEC参加報告その１</title>
+        <description>&lt;p&gt;今回は田口も運営委員として参加している&lt;a href=&quot;http://cedec.cesa.or.jp/&quot;&gt;CEDEC&lt;/a&gt;の参加報告です。  &lt;/p&gt;
+
+&lt;p&gt;クックパッドさんのCEDECでの&lt;a href=&quot;http://cedec.cesa.or.jp/2016/session/PRD/11836.html&quot;&gt;講演&lt;/a&gt;のスライドはこちらです。本当に面白いセッションでした。&lt;br&gt;
 &lt;a href=&quot;https://speakerdeck.com/yoshiori/how-we-cook-cookpad-dot-com-2016&quot;&gt;https://speakerdeck.com/yoshiori/how-we-cook-cookpad-dot-com-2016&lt;/a&gt;  &lt;/p&gt;
 
 &lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。  &lt;/p&gt;
