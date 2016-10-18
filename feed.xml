@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 10 Oct 2016 00:33:49 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 00:33:49 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2016 10:10:01 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2016 10:10:01 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,22 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>美砂コーチ</title>
+        <description>&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。  &lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/10/25/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/10/25/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_024.mp3" length="17529352" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
