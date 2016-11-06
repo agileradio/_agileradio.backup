@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Tue, 01 Nov 2016 06:26:07 +0000</pubDate>
-    <lastBuildDate>Tue, 01 Nov 2016 06:26:07 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Nov 2016 01:22:20 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Nov 2016 01:22:20 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,22 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>美砂コーチに聞いてみよー その２</title>
+        <description>&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。  &lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/11/07/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/11/07/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_026.mp3" length="21269877" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -43,7 +59,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXT2NseEVtQXV0S1U" length="20697900" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_025.mp3" length="20697900" type="audio/mpeg"/>
       </item>
       
     
@@ -66,7 +82,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXcm0xUVVaYjVlNHM" length="17529352" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_024.mp3" length="17529352" type="audio/mpeg"/>
       </item>
       
     
@@ -90,7 +106,7 @@
         <category>Event</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXUEszS2tpM2lvSDA" length="11572388" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_023.mp3" length="11572388" type="audio/mpeg"/>
       </item>
       
     
@@ -122,7 +138,7 @@
         <category>Event</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXaTdNS1NyWlBjdVU" length="16428416" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_022.mp3" length="16428416" type="audio/mpeg"/>
       </item>
       
     
@@ -152,7 +168,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXODZfT3RxZG9BNTQ" length="12617620" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_021.mp3" length="12617620" type="audio/mpeg"/>
       </item>
       
     
@@ -176,7 +192,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXZVF5TGJ0amdLU1E" length="11985099" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_020.mp3" length="11985099" type="audio/mpeg"/>
       </item>
       
     
@@ -198,7 +214,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXWmYtWXlFSVc2TGs" length="18123412" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_019.mp3" length="18123412" type="audio/mpeg"/>
       </item>
       
     
@@ -225,7 +241,7 @@
         <category>Event</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXem1CaWhqVXRPZVU" length="19297439" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_018.mp3" length="19297439" type="audio/mpeg"/>
       </item>
       
     
@@ -245,7 +261,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXQlN0aUVvVUJGZjA" length="18803965" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_017.mp3" length="18803965" type="audio/mpeg"/>
       </item>
       
     
@@ -264,7 +280,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXYTlRZWhJOEo5M2c" length="10591956" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_016.mp3" length="10591956" type="audio/mpeg"/>
       </item>
       
     
@@ -295,7 +311,7 @@
         <category>Coach</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXeERUOXpQNjdETjA" length="16467524" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_015.mp3" length="16467524" type="audio/mpeg"/>
       </item>
       
     
@@ -327,7 +343,7 @@
         <category>Coach</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXZVNnOTNRdnp6UVE" length="18885624" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_014.mp3" length="18885624" type="audio/mpeg"/>
       </item>
       
     
@@ -349,7 +365,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXdXUwNUxOLVRxeTg" length="14790186" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_013.mp3" length="14790186" type="audio/mpeg"/>
       </item>
       
     
@@ -367,7 +383,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXcTkwTXdaa3kxYlk" length="9729228" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_012.mp3" length="9729228" type="audio/mpeg"/>
       </item>
       
     
@@ -387,7 +403,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXaEN0WmJfZ08yT1U" length="14346601" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_011.mp3" length="14346601" type="audio/mpeg"/>
       </item>
       
     
@@ -407,7 +423,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXdndpSm95WmhMZU0" length="11248549" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_010.mp3" length="11248549" type="audio/mpeg"/>
       </item>
       
     
@@ -429,7 +445,7 @@
         <category>Event</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXYW0zQ3ZsZFVrbjA" length="9800801" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_009.mp3" length="9800801" type="audio/mpeg"/>
       </item>
       
     
@@ -447,7 +463,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXNC1fc2FkWGxfME0" length="10105999" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_008.mp3" length="10105999" type="audio/mpeg"/>
       </item>
       
     
@@ -467,7 +483,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXWlFacFJlRTU0c3M" length="23245839" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_007.mp3" length="23245839" type="audio/mpeg"/>
       </item>
       
     
@@ -502,7 +518,7 @@
         <category>Event</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXbnV6TE5ZdmU1T00" length="38173085" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_006.mp3" length="38173085" type="audio/mpeg"/>
       </item>
       
     
@@ -529,7 +545,7 @@
         <category>Event</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXWS1DOEtuVGMyOGM" length="25542208" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_005.mp3" length="25542208" type="audio/mpeg"/>
       </item>
       
     
@@ -555,7 +571,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXYm03U1hZMEx2VzQ" length="26696487" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_004.mp3" length="26696487" type="audio/mpeg"/>
       </item>
       
     
@@ -577,7 +593,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXV05yTzB3QlhjR1k" length="25279607" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_003.mp3" length="25279607" type="audio/mpeg"/>
       </item>
       
     
@@ -603,7 +619,7 @@
         <category>Event</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXd2EtelFWeFYtdGs" length="44199806" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_002.mp3" length="44199806" type="audio/mpeg"/>
       </item>
       
     
@@ -625,7 +641,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXbDA0VFg3djVnSmM" length="24408148" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_001.mp3" length="24408148" type="audio/mpeg"/>
       </item>
       
     
@@ -651,7 +667,7 @@
         <category>Radio</category>
         
         
-        <enclosure url="https://drive.google.com/open?id=0B3VWeasTWNxXZFBIWDQxNl9qN1k" length="19665995" type="audio/mpeg"/>
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_000.mp3" length="19665995" type="audio/mpeg"/>
       </item>
       
     
