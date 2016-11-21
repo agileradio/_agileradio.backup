@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Sun, 06 Nov 2016 14:00:46 +0000</pubDate>
-    <lastBuildDate>Sun, 06 Nov 2016 14:00:46 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Nov 2016 01:01:43 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Nov 2016 01:01:43 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,26 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>チェックイン祭り</title>
+        <description>&lt;p&gt;今回は、AkiはRubyKaigiやRailsGirls、田口はCEDEC+KYUSHU、開原はスクラム道関西★大忘年会 、山根は故郷であるKotlin(ことりん)星の話、名古屋の出張の時に何をしているかを語ってくれました！&lt;/p&gt;
+
+&lt;p&gt;盛り上がりすぎて、チェックインで終わってしまいアジャイル要素が少なめですが、ラジオを聞いていただいた人が、何か考えるヒントになれば幸いです。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/11/21/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/11/21/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_027.mp3" length="14770612" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -660,28 +680,6 @@
     
       
     
-      
-    
-      
-      <item>
-        <title>アジャイルラジオ再始動・・・かも？</title>
-        <description>&lt;p&gt;アジャイルラジオがいよいよ再始動  &lt;/p&gt;
-
-&lt;p&gt;スクラム道関西によるアジャイルラジオです  &lt;/p&gt;
-
-&lt;p&gt;第１回放送のつもりで録音しましたがあまりにグダグダだったので第０回になりました（汗  &lt;/p&gt;
-
-&lt;p&gt;今後ともスクラム道関西とアジャイルラジオをよろしくお願いします&lt;/p&gt;
-</description>
-        <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2015/11/11/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2015/11/11/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_000.mp3" length="19665995" type="audio/mpeg"/>
-      </item>
       
     
   </channel>
