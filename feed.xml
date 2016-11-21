@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 21 Nov 2016 01:01:43 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Nov 2016 01:01:43 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Nov 2016 02:05:24 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Nov 2016 02:05:24 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -25,10 +25,16 @@
     
       
       <item>
-        <title>チェックイン祭り</title>
-        <description>&lt;p&gt;今回は、AkiはRubyKaigiやRailsGirls、田口はCEDEC+KYUSHU、開原はスクラム道関西★大忘年会 、山根は故郷であるKotlin(ことりん)星の話、名古屋の出張の時に何をしているかを語ってくれました！&lt;/p&gt;
+        <title>パーソナルティの近況報告</title>
+        <description>&lt;p&gt;今回は、AkiはRubyKaigiやRailsGirls、田口はCEDEC+KYUSHU、開原はスクラム道関西★大忘年会 、山根はKotlin(ことりん)星の話、名古屋の出張の時に何をしているかを語ってくれました！  &lt;/p&gt;
 
-&lt;p&gt;盛り上がりすぎて、チェックインで終わってしまいアジャイル要素が少なめですが、ラジオを聞いていただいた人が、何か考えるヒントになれば幸いです。&lt;/p&gt;
+&lt;p&gt;盛り上がりすぎて、チェックインで終わってしまいアジャイル要素が少なめですが、ラジオを聞いていただいた人が、何か考えるヒントになれば幸いです。  &lt;/p&gt;
+
+&lt;p&gt;12/25(金) スクラム道関西★大忘年会のお申し込みはこちらとなります。&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/43415/&quot;&gt;https://scrumdo-kansai.connpass.com/event/43415/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;12/3(土) Agile Tour Osaka 2016 はこちら&lt;br&gt;
+&lt;a href=&quot;http://www.kokuchpro.com/event/1ef5845d98b8eb63fdcd41f4eb752a82/&quot;&gt;http://www.kokuchpro.com/event/1ef5845d98b8eb63fdcd41f4eb752a82/&lt;/a&gt;  &lt;/p&gt;
 
 &lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
 </description>
