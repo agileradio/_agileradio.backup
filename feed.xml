@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 21 Nov 2016 02:15:42 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Nov 2016 02:15:42 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Nov 2016 04:17:42 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Nov 2016 04:17:42 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -25,7 +25,7 @@
     
       
       <item>
-        <title>パーソナルティの近況報告</title>
+        <title>パーソナリティの近況報告</title>
         <description>&lt;p&gt;今回は、AkiはRubyKaigiやRailsGirls、田口はCEDEC+KYUSHU、開原はスクラム道関西★大忘年会 、山根はKotlin(ことりん)の話を語ってくれました！  &lt;/p&gt;
 
 &lt;p&gt;盛り上がりすぎて、チェックインで終わってしまいアジャイル要素が少なめですが、ラジオを聞いていただいた人が、何か考えるヒントになれば幸いです。  &lt;/p&gt;
