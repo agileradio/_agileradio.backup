@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 21 Nov 2016 04:17:42 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Nov 2016 04:17:42 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Dec 2016 03:16:27 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Dec 2016 03:16:27 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,32 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>RSGTやSBC</title>
+        <description>&lt;p&gt;冒頭で Regional SCRUM GATHERING® Tokyo 2017 の話をしましたが、アジャイルラジオのパーソナリティから２名が講演することになりました。（収録の頃はまだ結果が出ていませんでした）&lt;br&gt;
+&lt;a href=&quot;https://confengine.com/regional-scrum-gathering-tokyo-2017/proposal/3322&quot;&gt;https://confengine.com/regional-scrum-gathering-tokyo-2017/proposal/3322&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;https://confengine.com/regional-scrum-gathering-tokyo-2017/proposal/3354&quot;&gt;https://confengine.com/regional-scrum-gathering-tokyo-2017/proposal/3354&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;国内最大級のアジャイル系カンファレンスですし、非常に刺激になるイベントなのでぜひご参加ください。&lt;br&gt;
+&lt;a href=&quot;http://2017.scrumgatheringtokyo.org/&quot;&gt;http://2017.scrumgatheringtokyo.org/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Scrum Boot Camp OSAKA はスクラム道関西が年２回程度のペースで開催しています。次回の開催はまだ未定ですが、ご興味がある方はこちらのグループに参加いただくと告知が届くと思います。&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/&quot;&gt;https://scrumdo-kansai.connpass.com/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2016/12/05/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2016/12/05/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_028.mp3" length="15203409" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -682,8 +708,6 @@
         
         <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_001.mp3" length="24408148" type="audio/mpeg"/>
       </item>
-      
-    
       
     
       
