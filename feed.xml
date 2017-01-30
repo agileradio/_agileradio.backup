@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 16 Jan 2017 01:05:31 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Jan 2017 01:05:31 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Jan 2017 04:54:18 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2017 04:54:18 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,28 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>RSGT 報告会 その１</title>
+        <description>&lt;p&gt;今日のアジャイルラジオは、先日開催された&lt;br&gt;
+Regional SCRUM GATHERING Tokyo 2017&lt;br&gt;
+&lt;a href=&quot;http://2017.scrumgatheringtokyo.org/&quot;&gt;http://2017.scrumgatheringtokyo.org/&lt;/a&gt;&lt;br&gt;
+の講演者、参加者による報告です。&lt;br&gt;
+非常に面白いカンファレンスだったので、アツく語って長くなっちゃいました。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/01/30/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/01/30/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_031.mp3" length="14707291" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -702,32 +724,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_003.mp3" length="25279607" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>楽天の川口さん登場！</title>
-        <description>&lt;p&gt;第２回放送にしてゲストが登場の特別回&lt;/p&gt;
-
-&lt;p&gt;ゲストはアジャイルコーチの楽天の川口さんです&lt;/p&gt;
-
-&lt;p&gt;番組後半には、永瀬美穂さんからスクラムギャザリング東京の告知があります&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://scrumgatheringtokyo.org/&quot;&gt;http://scrumgatheringtokyo.org/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;スクラムギャザリング東京は、January 18th - 19th 2016 に開催されます&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2015/12/07/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2015/12/07/1/</guid>
-        
-        <category>Radio</category>
-        
-        <category>Event</category>
-        
-        
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_002.mp3" length="44199806" type="audio/mpeg"/>
       </item>
       
     
