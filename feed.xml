@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Sat, 11 Feb 2017 08:56:50 +0000</pubDate>
-    <lastBuildDate>Sat, 11 Feb 2017 08:56:50 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Feb 2017 09:40:03 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Feb 2017 09:40:03 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -41,7 +41,7 @@ Regional SCRUM GATHERING Tokyo 2017&lt;br&gt;
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_031.mp3" length="14707291" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_031.mp3" length="14707291" type="audio/mpeg"/>
       </item>
       
     
@@ -62,7 +62,7 @@ Regional SCRUM GATHERING Tokyo 2017&lt;br&gt;
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_030.mp3" length="19758328" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_030.mp3" length="19758328" type="audio/mpeg"/>
       </item>
       
     
@@ -85,7 +85,7 @@ Regional SCRUM GATHERING Tokyo 2017&lt;br&gt;
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_029.mp3" length="16777861" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_029.mp3" length="16777861" type="audio/mpeg"/>
       </item>
       
     
@@ -110,7 +110,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_028.mp3" length="15203409" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_028.mp3" length="15203409" type="audio/mpeg"/>
       </item>
       
     
@@ -136,7 +136,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_027.mp3" length="14770612" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_027.mp3" length="14770612" type="audio/mpeg"/>
       </item>
       
     
@@ -165,7 +165,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_026.mp3" length="21269877" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_026.mp3" length="21269877" type="audio/mpeg"/>
       </item>
       
     
@@ -189,7 +189,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_025.mp3" length="20697900" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_025.mp3" length="20697900" type="audio/mpeg"/>
       </item>
       
     
@@ -212,7 +212,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_024.mp3" length="17529352" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_024.mp3" length="17529352" type="audio/mpeg"/>
       </item>
       
     
@@ -236,7 +236,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Event</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_023.mp3" length="11572388" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_023.mp3" length="11572388" type="audio/mpeg"/>
       </item>
       
     
@@ -268,7 +268,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Event</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_022.mp3" length="16428416" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_022.mp3" length="16428416" type="audio/mpeg"/>
       </item>
       
     
@@ -298,7 +298,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_021.mp3" length="12617620" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_021.mp3" length="12617620" type="audio/mpeg"/>
       </item>
       
     
@@ -322,7 +322,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_020.mp3" length="11985099" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_020.mp3" length="11985099" type="audio/mpeg"/>
       </item>
       
     
@@ -344,7 +344,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_019.mp3" length="18123412" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_019.mp3" length="18123412" type="audio/mpeg"/>
       </item>
       
     
@@ -371,7 +371,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Event</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_018.mp3" length="19297439" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_018.mp3" length="19297439" type="audio/mpeg"/>
       </item>
       
     
@@ -391,7 +391,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_017.mp3" length="18803965" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_017.mp3" length="18803965" type="audio/mpeg"/>
       </item>
       
     
@@ -410,7 +410,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_016.mp3" length="10591956" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_016.mp3" length="10591956" type="audio/mpeg"/>
       </item>
       
     
@@ -441,7 +441,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Coach</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_015.mp3" length="16467524" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_015.mp3" length="16467524" type="audio/mpeg"/>
       </item>
       
     
@@ -473,7 +473,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Coach</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_014.mp3" length="18885624" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_014.mp3" length="18885624" type="audio/mpeg"/>
       </item>
       
     
@@ -495,7 +495,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_013.mp3" length="14790186" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_013.mp3" length="14790186" type="audio/mpeg"/>
       </item>
       
     
@@ -513,7 +513,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_012.mp3" length="9729228" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_012.mp3" length="9729228" type="audio/mpeg"/>
       </item>
       
     
@@ -533,7 +533,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_011.mp3" length="14346601" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_011.mp3" length="14346601" type="audio/mpeg"/>
       </item>
       
     
@@ -553,7 +553,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_010.mp3" length="11248549" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_010.mp3" length="11248549" type="audio/mpeg"/>
       </item>
       
     
@@ -575,7 +575,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Event</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_009.mp3" length="9800801" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_009.mp3" length="9800801" type="audio/mpeg"/>
       </item>
       
     
@@ -593,7 +593,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_008.mp3" length="10105999" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_008.mp3" length="10105999" type="audio/mpeg"/>
       </item>
       
     
@@ -613,7 +613,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_007.mp3" length="23245839" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_007.mp3" length="23245839" type="audio/mpeg"/>
       </item>
       
     
@@ -648,7 +648,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Event</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_006.mp3" length="38173085" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_006.mp3" length="38173085" type="audio/mpeg"/>
       </item>
       
     
@@ -675,7 +675,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Event</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_005.mp3" length="25542208" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_005.mp3" length="25542208" type="audio/mpeg"/>
       </item>
       
     
@@ -701,7 +701,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_004.mp3" length="26696487" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_004.mp3" length="26696487" type="audio/mpeg"/>
       </item>
       
     
@@ -723,7 +723,7 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         <category>Radio</category>
         
         
-        <enclosure url="https://s3.amazonaws.com/agileradio-assets-us/mp3/ar_003.mp3" length="25279607" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_003.mp3" length="25279607" type="audio/mpeg"/>
       </item>
       
     
