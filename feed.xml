@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Sun, 12 Feb 2017 06:49:46 +0000</pubDate>
-    <lastBuildDate>Sun, 12 Feb 2017 06:49:46 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2017 01:19:34 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2017 01:19:34 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,25 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>アジャイルやってます問題について</title>
+        <description>&lt;p&gt;今回は、スクラム道関西の山本と田口のサシトーク。&lt;br&gt;
+最近あった話からそのままの流れでタスク管理の話になり、アジャイルのプラクティスをやっているだけで現場が安心してしまうという問題へと話が発展しました（アジャイルやってます問題と勝手に呼んでます）。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/02/27/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/02/27/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_033.mp3" length="18755226" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -697,32 +716,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_005.mp3" length="25542208" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>アジャイルサムライがやってきた！西村直人さん登場！</title>
-        <description>&lt;p&gt;今回は、&lt;a href=&quot;http://www.amazon.co.jp/dp/4274068560&quot;&gt;アジャイルサムライ&lt;/a&gt;の監訳や&lt;a href=&quot;http://www.amazon.co.jp/dp/4798129712&quot;&gt;SCRUM BOOT CAMP THE BOOK&lt;/a&gt;の著者としてアジャイル界隈でおなじみの&lt;strong&gt;西村直人&lt;/strong&gt;さんがアジャイルラジオにやってきました。&lt;/p&gt;
-
-&lt;p&gt;アジャイルの今後の話から、プライベートな話までいろいろ話してくれました。&lt;/p&gt;
-
-&lt;p&gt;かなりぶっちゃけトークなので楽しんでください！  &lt;/p&gt;
-
-&lt;p&gt;ちょっと深夜ラジオな雰囲気なのはご愛敬（汗）  &lt;/p&gt;
-
-&lt;p&gt;ちなみに、ラジオなのにジェスチャーの話をしてたところはこの話をしていました。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://matome.naver.jp/odai/2140084137494424501&quot;&gt;http://matome.naver.jp/odai/2140084137494424501&lt;/a&gt;  &lt;/p&gt;
-</description>
-        <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2015/12/28/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2015/12/28/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_004.mp3" length="26696487" type="audio/mpeg"/>
       </item>
       
     
