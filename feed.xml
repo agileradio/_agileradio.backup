@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 27 Feb 2017 01:22:41 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Feb 2017 01:22:41 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Mar 2017 12:42:05 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Mar 2017 12:42:05 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,35 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>Scrum Boot Camp OSAKA in March 2017</title>
+        <description>&lt;p&gt;まず告知です。&lt;br&gt;
+3/26(日) アジャイルラジオを運営するスクラム道関西が、スクラムの全体像とポイントを丸１日かけて学び体験できるイベント『Scrum Boot Camp OSAKA in March 2017』 を開催します。&lt;br&gt;
+このイベントでは、座学だけではなくワークショップやディスカッションを通じて、より一層スクラム開発を理解してもらうことを目的としています。
+これからスクラム開発を初めてみようという方やもっとスクラム開発について理解したい方などはぜひお越しください。
+お申し込みはこちらから。&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/52600/&quot;&gt;https://scrumdo-kansai.connpass.com/event/52600/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;今回のアジャイルラジオは、前回同様スクラム道関西の山本と田口のサシトークです。&lt;br&gt;
+収録日がちょうどプレミアムフライデーだったので、あまり知識の無いまま見切り発車でプレミアムフライデーの話をしてしまいましたm(__)m  &lt;/p&gt;
+
+&lt;p&gt;メモやタスク管理のデジタルツールは何を使っているのか聞かせてください。&lt;br&gt;
+Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/03/13/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/03/13/1/</guid>
+        
+        <category>Radio</category>
+        
+        <category>Event</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_034.mp3" length="16808372" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -689,33 +718,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_006.mp3" length="38173085" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>アジャイル王子がやってきた！牛尾剛さん登場！</title>
-        <description>&lt;p&gt;MicrosoftのDevOpsエバンジェリストである&lt;a href=&quot;https://twitter.com/sandayuu&quot;&gt;牛尾剛&lt;/a&gt;さんにお越しいただき、DevOpsについて語っていただきました。&lt;br&gt;
-非常に具体的でわかりやすく興味深いお話でした。  &lt;/p&gt;
-
-&lt;p&gt;ちなみに放送中に出てきて書籍『フェニックスプロジェクト』の翻訳本はこちら&lt;br&gt;
-&lt;a href=&quot;http://www.amazon.co.jp/dp/4822285359/&quot;&gt;http://www.amazon.co.jp/dp/4822285359/&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;後半に告知がありました DevOps ハッカソン の申し込みはこちらから&lt;br&gt;
-&lt;a href=&quot;http://devopsjp.connpass.com/&quot;&gt;http://devopsjp.connpass.com/&lt;/a&gt;  &lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2016/01/04/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2016/01/04/1/</guid>
-        
-        <category>Radio</category>
-        
-        <category>DevOps</category>
-        
-        <category>Event</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_005.mp3" length="25542208" type="audio/mpeg"/>
       </item>
       
     
