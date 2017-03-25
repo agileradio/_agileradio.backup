@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Tue, 14 Mar 2017 00:11:24 +0000</pubDate>
-    <lastBuildDate>Tue, 14 Mar 2017 00:11:24 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Mar 2017 06:15:32 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Mar 2017 06:15:32 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,33 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>美砂コーチに聞きたくなったので呼んでみた</title>
+        <description>&lt;p&gt;今回はアジャイルラジオ準レギュラーの福原 美砂コーチにお越しいただきました。&lt;br&gt;
+ヘビーリスナーの &lt;a href=&quot;https://twitter.com/scrummasudar&quot;&gt;スクラムマスダー&lt;/a&gt; さんが、ファシリテータとしての会議での悩みを美砂コーチに聞いてもらいました。  &lt;/p&gt;
+
+&lt;p&gt;美砂コーチに描いていただいた氷山モデル&lt;br&gt;
+&lt;img src=&quot;/assets/img/avatar.png&quot; alt=&quot;氷山モデル&quot;&gt;  &lt;/p&gt;
+
+&lt;p&gt;美砂コーチのHPはこちら、オフィス福原 C＆D HR Lab.&lt;br&gt;
+&lt;a href=&quot;http://www.misa-coach.com/&quot;&gt;http://www.misa-coach.com/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;美砂コーチの著書「見えないものをみるチカラ」はページ下方からご購入ください。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/03/27/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/03/27/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_035.mp3" length="16030341" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -685,41 +712,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_007.mp3" length="23245839" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>あけましておめでとうございます！</title>
-        <description>&lt;p&gt;少し遅くなりましたが、あけましておめでとうございます！&lt;br&gt;
-アジャイルラジオは今年も頑張ってあれこれ語っていきます！  &lt;/p&gt;
-
-&lt;p&gt;まず告知から&lt;br&gt;
-2/11(木祝) Scrumをより良く知るためのイベント&lt;br&gt;
-&lt;strong&gt;スクラム道関西 presents Scrum Boot Camp OSAKA 2016 Winter&lt;/strong&gt;&lt;br&gt;
-を大阪で開催することになりました！&lt;br&gt;
-これからScrumを導入しようと考えている方にむけて、Scrumの全体像とポイントを丸１日かけて学び体験していただけるイベントです&lt;br&gt;
-イベントの詳しい情報はこちらをご確認ください&lt;br&gt;
-&lt;a href=&quot;https://scrumdo-kansai.doorkeeper.jp/events/38118&quot;&gt;https://scrumdo-kansai.doorkeeper.jp/events/38118&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;今年初めてのアジャイルラジオの収録だったので今年の抱負を語ったり、先日開催されました &lt;a href=&quot;http://scrumgatheringtokyo.org/&quot;&gt;Regional SCRUM GATHERING® Tokyo&lt;/a&gt; に参加してきたメンバーが感想を話しました  &lt;/p&gt;
-
-&lt;p&gt;ちなみに、今回の収録は &lt;a href=&quot;http://www.msng.info/archives/2015/10/starbucks-meeting-room.php&quot;&gt;スターバックス新大阪ニッセイビル店&lt;/a&gt; をお借りしました&lt;br&gt;
-ひとり１ドリンクで８名までの会議スペースが借りられます&lt;br&gt;
-新大阪から雨に濡れずに行ける立地も魅力的です  &lt;/p&gt;
-
-&lt;p&gt;ちょっと店内の音楽が大きめだったので聴きづらいかも知れませんがご了承ください  &lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2016/01/25/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2016/01/25/1/</guid>
-        
-        <category>Radio</category>
-        
-        <category>Event</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_006.mp3" length="38173085" type="audio/mpeg"/>
       </item>
       
     
