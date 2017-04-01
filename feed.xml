@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Sat, 25 Mar 2017 06:39:23 +0000</pubDate>
-    <lastBuildDate>Sat, 25 Mar 2017 06:39:23 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Apr 2017 02:44:36 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Apr 2017 02:44:36 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,8 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
     
       
       <item>
@@ -691,26 +693,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_008.mp3" length="10105999" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>楽天の川口さん再登場！</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2015/12/07/1/&quot;&gt;Episode 2&lt;/a&gt; で登場いただきました楽天の川口さんがまたまた降臨しました  &lt;/p&gt;
-
-&lt;p&gt;川口さんの幼少の頃からのエピソード満載です  &lt;/p&gt;
-
-&lt;p&gt;昔話とゲームの話に花が咲いて、いつアジャイルの話になるのか聴いててドキドキしますが、要所要所に川口さんらしいエッセンスが盛り込まれてて面白い特別回になりました  &lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2016/02/08/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2016/02/08/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_007.mp3" length="23245839" type="audio/mpeg"/>
       </item>
       
     
