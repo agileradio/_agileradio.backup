@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 24 Apr 2017 11:40:10 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Apr 2017 11:40:10 +0000</lastBuildDate>
+    <pubDate>Sun, 07 May 2017 06:14:23 +0000</pubDate>
+    <lastBuildDate>Sun, 07 May 2017 06:14:23 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,33 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>ゆとり大事って話</title>
+        <description>&lt;p&gt;GWが終わりましたね。どんなGWを過ごしましたでしょうか？&lt;br&gt;
+今回のアジャイルラジオは収録がGW中だったこともあり少し緩い放送になりました。  &lt;/p&gt;
+
+&lt;p&gt;ゆとりが無いとふりかえりがうまく出来ないとか改善出来ないということは実際に起こっているようですね。
+ゆとりってどうやって作るんだろう？  &lt;/p&gt;
+
+&lt;p&gt;スクラム道関西のメンバーは アジャイル ジャパン 大阪サテライト の実行委員をやっております。ぜひお越しください。&lt;br&gt;
+&lt;a href=&quot;https://agilejapan-osaka.connpass.com/&quot;&gt;https://agilejapan-osaka.connpass.com/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/05/08/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/05/08/1/</guid>
+        
+        <category>Radio</category>
+        
+        <category>Event</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_038.mp3" length="15112085" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -708,28 +735,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_010.mp3" length="11248549" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>アジャイル王子が再びやってきた！牛尾剛さん登場！</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2016/01/04/1/&quot;&gt;Episode 5&lt;/a&gt; で登場いただきましたMicrosoftのDevOpsエバンジェリストである&lt;a href=&quot;https://twitter.com/sandayuu&quot;&gt;牛尾剛&lt;/a&gt;さんが再び登場いただきDevOpsについて語っていただきました。  &lt;/p&gt;
-
-&lt;p&gt;録音環境が悪くてちょっと聴き取りづらいですね。ごめんなさい。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2016/03/07/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2016/03/07/1/</guid>
-        
-        <category>Radio</category>
-        
-        <category>DevOps</category>
-        
-        <category>Event</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_009.mp3" length="9800801" type="audio/mpeg"/>
       </item>
       
     
