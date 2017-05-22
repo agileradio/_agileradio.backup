@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 22 May 2017 11:34:22 +0000</pubDate>
-    <lastBuildDate>Mon, 22 May 2017 11:34:22 +0000</lastBuildDate>
+    <pubDate>Mon, 22 May 2017 11:39:49 +0000</pubDate>
+    <lastBuildDate>Mon, 22 May 2017 11:39:49 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -25,9 +25,10 @@
     
       
       <item>
-        <title>スクラムマスターは技術力必要？</title>
-        <description>&lt;p&gt;前回に引き続きGWモードのメンバーがゆる〜く収録してます。&lt;br&gt;
-今回はスクラムマスターって技術力がいるんだろうか？チームに対してどういった支援をしたら良いのかという話をしました。&lt;br&gt;
+        <title>スクラムマスターは技術力が必要？</title>
+        <description>&lt;p&gt;前回に引き続きGWモードのメンバーがゆる〜く収録してます。  &lt;/p&gt;
+
+&lt;p&gt;今回はスクラムマスターって技術力がいるんだろうか？チームに対してどういった支援をしたら良いのかという話をしました。&lt;br&gt;
 またスクラムマスターを増やすにはどうしたらいいの？という話題も出ましたよ。&lt;br&gt;
 話の中でスクラムマスターやりたい人は少ないんじゃない？という意見も出ましたけど、皆さんはどうですか？
 チャンスがあればスクラムマスターになってみたいですか？&lt;/p&gt;
