@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Sun, 07 May 2017 06:26:41 +0000</pubDate>
-    <lastBuildDate>Sun, 07 May 2017 06:26:41 +0000</lastBuildDate>
+    <pubDate>Mon, 22 May 2017 11:34:22 +0000</pubDate>
+    <lastBuildDate>Mon, 22 May 2017 11:34:22 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,33 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>スクラムマスターは技術力必要？</title>
+        <description>&lt;p&gt;前回に引き続きGWモードのメンバーがゆる〜く収録してます。&lt;br&gt;
+今回はスクラムマスターって技術力がいるんだろうか？チームに対してどういった支援をしたら良いのかという話をしました。&lt;br&gt;
+またスクラムマスターを増やすにはどうしたらいいの？という話題も出ましたよ。&lt;br&gt;
+話の中でスクラムマスターやりたい人は少ないんじゃない？という意見も出ましたけど、皆さんはどうですか？
+チャンスがあればスクラムマスターになってみたいですか？&lt;/p&gt;
+
+&lt;p&gt;スクラム道関西のメンバーは 6/10(土)のアジャイル ジャパン 大阪サテライト の実行委員をやっております。ぜひお越しください。&lt;br&gt;
+&lt;a href=&quot;https://agilejapan-osaka.connpass.com/&quot;&gt;https://agilejapan-osaka.connpass.com/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/05/22/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/05/22/1/</guid>
+        
+        <category>Radio</category>
+        
+        <category>Event</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_039.mp3" length="15966811" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -715,26 +742,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_011.mp3" length="14346601" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>コミュニティに行こう</title>
-        <description>&lt;p&gt;ゲスト放送が続きましたが今回は通常放送です  &lt;/p&gt;
-
-&lt;p&gt;初めてコミュニティに関わったきっかけを語っています  &lt;/p&gt;
-
-&lt;p&gt;コミュニティに行ったことない方に参考になったかな  &lt;/p&gt;
-</description>
-        <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2016/03/22/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2016/03/22/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_010.mp3" length="11248549" type="audio/mpeg"/>
       </item>
       
     
