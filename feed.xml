@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 22 May 2017 11:39:49 +0000</pubDate>
-    <lastBuildDate>Mon, 22 May 2017 11:39:49 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Jun 2017 11:57:44 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Jun 2017 11:57:44 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,31 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>アジャイルにまつわる書籍紹介と雑談</title>
+        <description>&lt;p&gt;今回は、スクラム道関西の若手であるスクラムマスダーからの視点のお話から始まりました。若い人からみてアジャイルやスクラム道関西ってどう見えているのか気になっちゃいますね。&lt;br&gt;
+書籍紹介は面白いですね。アジャイル界隈の方々は本をよく読む方が多いのでいろいろ参考になります。&lt;br&gt;
+そして人事採用活動の話に。組織を作っていく上で「人」に関すること（採用、評価、教育）はやはり重要なことだと感じました。  &lt;/p&gt;
+
+&lt;p&gt;スクラム道関西のメンバーは 6/10(土)のアジャイル ジャパン 大阪サテライト の実行委員をやっております。ぜひお越しください。&lt;br&gt;
+&lt;a href=&quot;https://agilejapan-osaka.connpass.com/&quot;&gt;https://agilejapan-osaka.connpass.com/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/06/05/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/06/05/1/</guid>
+        
+        <category>Radio</category>
+        
+        <category>Event</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_040.mp3" length="19979846" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -723,26 +748,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_012.mp3" length="9729228" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>ふりかえりの手法あれこれ</title>
-        <description>&lt;p&gt;今回のお題は『ふりかえり』  &lt;/p&gt;
-
-&lt;p&gt;ふりかえりの手法やふりかえりの場の作り方の話で盛り上がりました  &lt;/p&gt;
-
-&lt;p&gt;これを聴いているみなさんは、普段どういったふりかえりをされているのか &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にお聞かせください  &lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2016/04/04/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2016/04/04/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_011.mp3" length="14346601" type="audio/mpeg"/>
       </item>
       
     
