@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 21 Aug 2017 04:55:20 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Aug 2017 04:55:20 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2017 06:58:38 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Aug 2017 06:58:38 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -26,7 +26,13 @@
       
       <item>
         <title>アジャイルモンスターとモブプログラミング(後編)</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2017/07/31/1/&quot;&gt;前回&lt;/a&gt;に引き続き、
+        <description>&lt;p&gt;【宣伝】&lt;br&gt;
+10/1(日) Scrum Boot Camp OSAKA in October 2017 が開催されます。これはスクラムの基本やその背景にある考え方を、体験を通して丸１日かけて学んでいただけるイベントです。詳しくはこちらのページで。&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/64750/&quot;&gt;https://scrumdo-kansai.connpass.com/event/64750/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2017/07/31/1/&quot;&gt;前回&lt;/a&gt;に引き続き、
 アジャイルモンスターこと、楽天株式会社の及部さんをゲストに迎え、
 モブプログラミングの話を聞きました！&lt;/p&gt;
 
