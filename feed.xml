@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Tue, 22 Aug 2017 06:58:38 +0000</pubDate>
-    <lastBuildDate>Tue, 22 Aug 2017 06:58:38 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Sep 2017 04:59:17 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Sep 2017 04:59:17 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,26 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>モダンアジャイルについて</title>
+        <description>&lt;p&gt;今回のアジャイルラジオは&lt;a href=&quot;http://modernagile.org/&quot;&gt;モダンアジャイル&lt;/a&gt;を取り上げました。
+アジャイルラジオでモダンアジャイルをガッツリ話すのは初めてじゃないですかね。&lt;br&gt;
+2016年から話題になっているモダンアジャイル。今後もアジャイルラジオで取り上げていきたいです。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/09/04/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/09/04/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_045.mp3" length="16300753" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -740,25 +760,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_017.mp3" length="18803965" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>Agile Japan 2016 参加報告</title>
-        <description>&lt;p&gt;先日開催された &lt;a href=&quot;http://www.agilejapan.org/&quot;&gt;Agile Japan 2016&lt;/a&gt; に山本と開原が参加してきたので雰囲気とか話してもらいました。ふたりは今年の&lt;a href=&quot;https://agilejapanosaka.doorkeeper.jp/events/41429&quot;&gt;大阪サテライト&lt;/a&gt;の運営にも関わっていました。非常に刺激のあるカンファレンスだったようです。田口も行きたかったな。。。  &lt;/p&gt;
-
-&lt;p&gt;また Twitter の &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。
-番組を締めるときのコールや、塩味付きのゆでたまごの作り方なども募集しております。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2016/06/13/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2016/06/13/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_016.mp3" length="10591956" type="audio/mpeg"/>
       </item>
       
     
