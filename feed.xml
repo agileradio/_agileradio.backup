@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Tue, 19 Sep 2017 00:56:09 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Sep 2017 00:56:09 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Oct 2017 04:20:37 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Oct 2017 04:20:37 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,24 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>あじゃいる広めるの難しいです...</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2017/09/19/1/&quot;&gt;前回&lt;/a&gt;の放送で、あじゃいるをエンジニアじゃない人たちに説明することになったスクラムマスダーですが、今回はそれがどうなったのかの結果報告です。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/10/02/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/10/02/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_047.mp3" length="16502008" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -733,33 +751,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_019.mp3" length="18123412" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>いま話題の炎上王子がアジャイルラジオにやってきた！</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2016/01/04/1/&quot;&gt;Episode 5&lt;/a&gt; や &lt;a href=&quot;http://agileradio.github.io/2016/03/07/1/&quot;&gt;Episode 9&lt;/a&gt; で登場いただきました&lt;a href=&quot;https://twitter.com/sandayuu&quot;&gt;牛尾剛&lt;/a&gt;さんを緊急招集！&lt;br&gt;
-話題のブログに関してたっぷり語っていただきました。  &lt;/p&gt;
-
-&lt;p&gt;ちなみに話題のブログはこちらです。&lt;br&gt;
-『私は間違っていた。ごめん。ウォーターフォールは何のメリットも無い』&lt;br&gt;
-&lt;a href=&quot;http://simplearchitect.hatenablog.com/entry/2016/06/20/080807&quot;&gt;http://simplearchitect.hatenablog.com/entry/2016/06/20/080807&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;DevOps! DevOps!! DevOps!!!  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2016/07/11/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2016/07/11/1/</guid>
-        
-        <category>Radio</category>
-        
-        <category>Event</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_018.mp3" length="19297439" type="audio/mpeg"/>
       </item>
       
     
