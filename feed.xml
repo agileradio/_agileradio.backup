@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 02 Oct 2017 04:20:37 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Oct 2017 04:20:37 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Oct 2017 11:24:33 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Oct 2017 11:24:33 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,26 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>開原と田口であれこれ雑談</title>
+        <description>&lt;p&gt;今回は開原と田口の２人で、信頼貯金の話から始まって新卒採用の話、ジョブローテーションの話など脱線しながらあれこれ雑談しました。  &lt;/p&gt;
+
+&lt;p&gt;次回は「デスマーチ』をテーマにお話しする予定です。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/10/16/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/10/16/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_048.mp3" length="18523259" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -729,28 +749,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_020.mp3" length="11985099" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>牛尾さん 再び登場！</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2016/07/11/1/&quot;&gt;Episode 18&lt;/a&gt; に引き続き&lt;a href=&quot;https://twitter.com/sandayuu&quot;&gt;牛尾剛&lt;/a&gt;さんにお話いただきました。アジャイルラジオのゲストでは最多出場ですね。  &lt;/p&gt;
-
-&lt;p&gt;今回のテーマは『選択する』ことかな。  &lt;/p&gt;
-
-&lt;p&gt;番組の締めのコールは音量がデカいのでご注意を。  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2016/07/25/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2016/07/25/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_019.mp3" length="18123412" type="audio/mpeg"/>
       </item>
       
     
