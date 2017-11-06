@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 16 Oct 2017 11:24:33 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Oct 2017 11:24:33 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Nov 2017 09:50:58 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Nov 2017 09:50:58 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,29 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>開原とデスマーチ</title>
+        <description>&lt;p&gt;今回は『デスマーチ』について話しました。  &lt;/p&gt;
+
+&lt;p&gt;デスマーチってよく耳にしますがどんなものなのでしょう？田口が開原に質問しています。
+ゲーム開発にはデスマーチが存在しないのでしょうか？  &lt;/p&gt;
+
+&lt;p&gt;開原「デスマーチは油断するとすぐになる！」  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/11/06/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/11/06/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_049.mp3" length="19508179" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -728,28 +751,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
       </item>
       
     
-      
-    
-      
-      <item>
-        <title>ヘビーリスナーと遊ぼう♪</title>
-        <description>&lt;p&gt;今回は「ヘビーリスナーと遊ぼう」というタイトルで、
-よくアジャイルラジオを聴いてくださっているおふたり（&lt;a href=&quot;https://twitter.com/scrummasudar&quot;&gt;スクラムマスダー&lt;/a&gt;さんと平川さん）にゲストとしてお越しいただきました。  &lt;/p&gt;
-
-&lt;p&gt;おふたりとも現場でスクラムマスターとしてご活躍されているということで、
-今回はスクラムマスターとして普段どのようなことを行っているかというお話をお伺いしました。&lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2016/08/15/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2016/08/15/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_020.mp3" length="11985099" type="audio/mpeg"/>
-      </item>
       
     
   </channel>
