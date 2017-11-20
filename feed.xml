@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 06 Nov 2017 09:50:58 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Nov 2017 09:50:58 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Nov 2017 10:24:51 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2017 10:24:51 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,26 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>田口の楽天さん訪問その1</title>
+        <description>&lt;p&gt;今回は田口が楽天さんにお邪魔してアジャイルラジオの収録をしてきました。&lt;br&gt;
+田口はモブプロの話をしたくてお邪魔したのですが、モブプロは次回へ。&lt;br&gt;
+今回はワチャワチャいろいろ話している感じをお楽しみください。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/11/20/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/11/20/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_050.mp3" length="19017913" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -749,8 +769,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_021.mp3" length="12617620" type="audio/mpeg"/>
       </item>
-      
-    
       
     
   </channel>
