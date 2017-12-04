@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 20 Nov 2017 10:24:51 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Nov 2017 10:24:51 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Dec 2017 09:00:46 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2017 09:00:46 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,28 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>田口の楽天さん訪問その2</title>
+        <description>&lt;p&gt;今回も田口が楽天さんにお邪魔してアジャイルラジオの収録をしてきましたよ。&lt;br&gt;
+やっとモブプロの話です。田口がいやらしい質問を楽天さんにぶつけました。&lt;br&gt;
+モブプログラミングって実際のところどうなんでしょうか？ぜひ聞いてみてください！  &lt;/p&gt;
+
+&lt;p&gt;突然の訪問を快く受け入れてくださった楽天の皆さん、ありがとうございました！  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2017/12/04/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2017/12/04/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_051.mp3" length="25522612" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -738,36 +760,6 @@ Regional SCRUM GATHERING® Tokyo 2017 は国内最大級のアジャイル系カ
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_022.mp3" length="16428416" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>ヘビーリスナーと遊ぼう♪ その２</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2016/08/15/1/&quot;&gt;前回&lt;/a&gt;に引き続き、今回も「ヘビーリスナーと遊ぼう」というタイトルで、&lt;a href=&quot;https://twitter.com/scrummasudar&quot;&gt;スクラムマスダー&lt;/a&gt;さんと平川さんにゲストとしてお越しいただきました。  &lt;/p&gt;
-
-&lt;p&gt;みなさんはアジャイルラジオをどんな風に聴いてくれているのか気になるところなので聞いちゃいました。&lt;br&gt;
-あと好きな書籍の話で盛り上がりました。アジャイル界隈の方々は本当に書籍好きな方が多いですね。&lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。  &lt;/p&gt;
-
-&lt;p&gt;＊＊＊ 告知 ＊＊＊&lt;br&gt;
-9/24(土) アジャイルラジオを運営するスクラム道関西が、スクラムの全体像とポイントを丸１日かけて学び体験できるイベント『Scrum Boot Camp OSAKA in September 2016』を開催することになりました。&lt;/p&gt;
-
-&lt;p&gt;このイベントでは、座学だけではなくワークショップやディスカッションを通じて、より一層スクラム開発を理解してもらうことを目的としています。&lt;br&gt;
-これからスクラム開発を初めてみようという方やもっとスクラム開発について理解したい方などはぜひお越しください。&lt;/p&gt;
-
-&lt;p&gt;お申し込みはこちらから。
-&lt;a href=&quot;http://scrumdo-kansai.connpass.com/event/37211/&quot;&gt;http://scrumdo-kansai.connpass.com/event/37211/&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2016/08/29/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2016/08/29/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_021.mp3" length="12617620" type="audio/mpeg"/>
       </item>
       
     
