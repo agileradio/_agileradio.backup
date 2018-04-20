@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Sun, 08 Apr 2018 14:01:51 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Apr 2018 14:01:51 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Apr 2018 07:49:53 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Apr 2018 07:49:53 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,30 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>Tech系Podcast</title>
+        <description>&lt;p&gt;アジャイルラジオぉぉぉ！おはようございまーす。  &lt;/p&gt;
+
+&lt;p&gt;今回はTech系Podcastの話です。Tech系だけでもほんといろいろありますね。&lt;br&gt;
+他のラジオの方々とコラボしたいです～。  &lt;/p&gt;
+
+&lt;p&gt;せろりんねさんのYouTubeはこちら。&lt;br&gt;
+&lt;a href=&quot;https://www.youtube.com/channel/UCxZ0BkYadR-0LtmkrHcFOvQ&quot;&gt;https://www.youtube.com/channel/UCxZ0BkYadR-0LtmkrHcFOvQ&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/04/23/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/04/23/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_060.mp3" length="15080638" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -719,27 +743,6 @@ Regional SCRUM GATHERING Tokyo 2017&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_031.mp3" length="14707291" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>あけましておめでとうございます！</title>
-        <description>&lt;p&gt;今年一発目の放送です。今年もアジャイルラジオ、スクラム道関西共々頑張っていきますのでよろしくお願いします。&lt;br&gt;
-今回は年始ということで、４人のパーソナリティの今年の抱負を語っております。  &lt;/p&gt;
-
-&lt;p&gt;ちなみに昨年末の紅白は紅組が勝ちましたよ。  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/01/16/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/01/16/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_030.mp3" length="19758328" type="audio/mpeg"/>
       </item>
       
     
