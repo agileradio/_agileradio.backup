@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Tue, 29 May 2018 05:41:32 +0000</pubDate>
-    <lastBuildDate>Tue, 29 May 2018 05:41:32 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Jun 2018 05:15:55 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Jun 2018 05:15:55 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,24 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>サラリーマン山本がアジャイルやってみた！</title>
+        <description>&lt;p&gt;サラリーマンに戻った山本が新天地でアジャイルをやってみた話です！&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/06/11/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/06/11/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_063.mp3" length="19635448" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -726,25 +744,6 @@ Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?has
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_034.mp3" length="16808372" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>アジャイルやってます問題について</title>
-        <description>&lt;p&gt;今回は、スクラム道関西の山本と田口のサシトークです。&lt;br&gt;
-最近あった話から、そのままの流れでタスク管理の話になり、アジャイルのプラクティスをやっているだけで現場が安心してしまうという問題へと話が発展しました（”アジャイルやってます問題”と勝手に呼んでます）。  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/02/27/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/02/27/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_033.mp3" length="18755226" type="audio/mpeg"/>
       </item>
       
     
