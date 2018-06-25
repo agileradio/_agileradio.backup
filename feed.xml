@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 11 Jun 2018 05:15:55 +0000</pubDate>
-    <lastBuildDate>Mon, 11 Jun 2018 05:15:55 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Jun 2018 01:08:05 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Jun 2018 01:08:05 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,24 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>エンジニア採用とモブプログラミング</title>
+        <description>&lt;p&gt;エンジニア採用とモブプログラミング、その他お金の話です。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/06/25/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/06/25/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_064.mp3" length="19680907" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -713,37 +731,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_035.mp3" length="16030341" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>Scrum Boot Camp OSAKA in March 2017</title>
-        <description>&lt;p&gt;まず告知です。&lt;br&gt;
-3/26(日) アジャイルラジオを運営するスクラム道関西が、スクラムの全体像とポイントを丸１日かけて学び体験できるイベント『Scrum Boot Camp OSAKA in March 2017』を開催します。&lt;br&gt;
-このイベントでは、座学だけではなくワークショップやディスカッションを通じて、より一層スクラム開発を理解してもらうことを目的としています。これからスクラム開発を初めてみようという方やもっとスクラム開発について理解したい方などはぜひお越しください。  &lt;/p&gt;
-
-&lt;p&gt;お申し込みはこちらから。&lt;br&gt;
-&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/52600/&quot;&gt;https://scrumdo-kansai.connpass.com/event/52600/&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;今回のアジャイルラジオは、前回同様スクラム道関西の山本と田口のサシトークです。&lt;br&gt;
-収録日がちょうどプレミアムフライデーだったので、あまり知識の無いまま見切り発車でプレミアムフライデーの話をしてしまいましたm(__)m  &lt;/p&gt;
-
-&lt;p&gt;ちなみに山本が読んでいるGTDの書籍というのは『全面改訂版 はじめてのGTD ストレスフリーの整理術』です。&lt;/p&gt;
-
-&lt;p&gt;みなさん、メモやタスク管理のデジタルツールは何を使っているのか聞かせてください。&lt;br&gt;
-Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/03/13/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/03/13/1/</guid>
-        
-        <category>Radio</category>
-        
-        <category>Event</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_034.mp3" length="16808372" type="audio/mpeg"/>
       </item>
       
     
