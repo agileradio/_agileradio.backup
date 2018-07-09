@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 25 Jun 2018 01:08:05 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Jun 2018 01:08:05 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Jul 2018 05:23:29 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Jul 2018 05:23:29 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,26 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>Scrum Boot Camp OSAKA 開催しました</title>
+        <description>&lt;p&gt;今回は、6/30(土)に開催した『Scrum Boot Camp OSAKA in June 2018』の話です。&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/89594/&quot;&gt;https://scrumdo-kansai.connpass.com/event/89594/&lt;/a&gt;&lt;br&gt;
+次回開催はおそらく秋頃を予定しています。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/07/09/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/07/09/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_065.mp3" length="19557713" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -705,32 +725,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_036.mp3" length="16262099" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>美砂コーチに聞きたいことがあるので呼んでみた</title>
-        <description>&lt;p&gt;今回はアジャイルラジオ準レギュラーの &lt;a href=&quot;http://www.misa-coach.com/&quot;&gt;福原 美砂&lt;/a&gt; コーチにお越しいただきました。ヘビーリスナーの &lt;a href=&quot;https://twitter.com/scrummasudar&quot;&gt;スクラムマスダー&lt;/a&gt; さんが、会議でのファシリテーターとしての振るまい方について美砂コーチに質問してみました。  &lt;/p&gt;
-
-&lt;p&gt;美砂コーチに描いていただいた氷山モデル&lt;br&gt;
-&lt;img src=&quot;/assets/img/hyozan-model.jpg&quot; alt=&quot;氷山モデル&quot;&gt;  &lt;/p&gt;
-
-&lt;p&gt;美砂コーチのHPはこちら、オフィス福原 C＆D HR Lab.&lt;br&gt;
-&lt;a href=&quot;http://www.misa-coach.com/&quot;&gt;http://www.misa-coach.com/&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;美砂コーチの著書「見えないものをみるチカラ」はページ下方からご購入ください。  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/03/27/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/03/27/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_035.mp3" length="16030341" type="audio/mpeg"/>
       </item>
       
     
