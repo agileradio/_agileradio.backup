@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 09 Jul 2018 05:23:29 +0000</pubDate>
-    <lastBuildDate>Mon, 09 Jul 2018 05:23:29 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Jul 2018 10:32:13 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Jul 2018 10:32:13 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,24 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>ワールドカップと技術的負債</title>
+        <description>&lt;p&gt;今回は、ワールドカップと技術的負債の話です。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/07/23/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/07/23/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_066.mp3" length="16236813" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -695,36 +713,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_037.mp3" length="16433809" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>美砂コーチまた来てるやん</title>
-        <description>&lt;p&gt;今回もアジャイルラジオ準レギュラーの &lt;a href=&quot;http://www.misa-coach.com/&quot;&gt;福原 美砂&lt;/a&gt; コーチを呼び出してみました。『やる気』に関するお話をしました。目に見えないものを扱おうとすることは本当に難しいですね。  &lt;/p&gt;
-
-&lt;p&gt;美砂コーチのイベントがあります。&lt;br&gt;
-傍楽いきいきプロジェクト～職場の景色を変えるワークショップ～&lt;br&gt;
-2017年05月27日(土) 13:00～16:45&lt;br&gt;
-&lt;a href=&quot;http://www.misa-coach.com/event/#436&quot;&gt;http://www.misa-coach.com/event/#436&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;美砂コーチのHPはこちら、オフィス福原 C＆D HR Lab.&lt;br&gt;
-&lt;a href=&quot;http://www.misa-coach.com/&quot;&gt;http://www.misa-coach.com/&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;美砂コーチの著書「見えないものをみるチカラ」はページ下方からご購入ください。  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/04/10/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/04/10/1/</guid>
-        
-        <category>Radio</category>
-        
-        <category>Event</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_036.mp3" length="16262099" type="audio/mpeg"/>
       </item>
       
     
