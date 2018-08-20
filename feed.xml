@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 06 Aug 2018 09:09:51 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Aug 2018 09:09:51 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Aug 2018 01:07:39 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Aug 2018 01:07:39 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,25 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>田口と増田と松尾で雑多な話</title>
+        <description>&lt;p&gt;今回はZOZOTOWNの働き方の話や、チャットの話をしました。&lt;br&gt;
+ゆるーく聴いていただけたらと思います。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/08/20/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/08/20/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_068.mp3" length="33036889" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -678,33 +697,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_039.mp3" length="15966811" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>ゆとり大事って話</title>
-        <description>&lt;p&gt;GWが終わりましたね。みなさんはGW満喫できましたか？&lt;br&gt;
-今回のアジャイルラジオは収録がGW中だったこともあり、少し緩い放送になりました。  &lt;/p&gt;
-
-&lt;p&gt;ゆとりが無いとふりかえりがうまく出来ないとか改善出来ないということは実際に起こっているようですね。
-ゆとりってどうやって作るんだろう？みなさんのご意見もお聞かせください。  &lt;/p&gt;
-
-&lt;p&gt;スクラム道関西のメンバーは アジャイル ジャパン 大阪サテライト の実行委員をやっております。ぜひお越しください。&lt;br&gt;
-&lt;a href=&quot;https://agilejapan-osaka.connpass.com/&quot;&gt;https://agilejapan-osaka.connpass.com/&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/05/08/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/05/08/1/</guid>
-        
-        <category>Radio</category>
-        
-        <category>Event</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_038.mp3" length="15112085" type="audio/mpeg"/>
       </item>
       
     
