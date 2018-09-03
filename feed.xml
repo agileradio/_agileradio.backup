@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 20 Aug 2018 01:07:39 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Aug 2018 01:07:39 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Sep 2018 01:12:19 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Sep 2018 01:12:19 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,24 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>人生の目標を見失っている男たちの巻</title>
+        <description>&lt;p&gt;JIN-SAY!の迷い人、開原と和田が台風と仕事における目標について語りました。結局、迷ってばかりなんですけどね。。。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/09/03/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/09/03/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_069.mp3" length="15476127" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -669,34 +687,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_040.mp3" length="19979846" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>スクラムマスターは技術力が必要？</title>
-        <description>&lt;p&gt;前回に引き続きGWモードのメンバーがゆる〜く収録してます。  &lt;/p&gt;
-
-&lt;p&gt;今回はスクラムマスターって技術力がいるんだろうか？チームに対してどういった支援をしたら良いのかという話をしました。&lt;br&gt;
-またスクラムマスターを増やすにはどうしたらいいの？という話題も出ましたよ。&lt;br&gt;
-話の中でスクラムマスターやりたい人は少ないんじゃない？という意見も出ましたけど、皆さんはどうですか？
-チャンスがあればスクラムマスターになってみたいですか？&lt;/p&gt;
-
-&lt;p&gt;スクラム道関西のメンバーは 6/10(土)のアジャイル ジャパン 大阪サテライト の実行委員をやっております。ぜひお越しください。&lt;br&gt;
-&lt;a href=&quot;https://agilejapan-osaka.connpass.com/&quot;&gt;https://agilejapan-osaka.connpass.com/&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/05/22/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/05/22/1/</guid>
-        
-        <category>Radio</category>
-        
-        <category>Event</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_039.mp3" length="15966811" type="audio/mpeg"/>
       </item>
       
     
