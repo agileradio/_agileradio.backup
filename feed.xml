@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 03 Sep 2018 01:12:19 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Sep 2018 01:12:19 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Sep 2018 09:48:57 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Sep 2018 09:48:57 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,24 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>アジャイルジャパン大阪サテライトと社内読書会</title>
+        <description>&lt;p&gt;今回は、アジャイルジャパン大阪サテライトと、社内読書会についての話題です  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/09/17/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/09/17/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_070.mp3" length="18093079" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -662,31 +680,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_041.mp3" length="17935606" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>アジャイルにまつわる書籍紹介と雑談</title>
-        <description>&lt;p&gt;今回は、スクラム道関西の若手であるスクラムマスダーからの視点のお話から始まりました。若い人からみてアジャイルやスクラム道関西ってどう見えているのか気になっちゃいますね。&lt;br&gt;
-書籍紹介は面白いですね。アジャイル界隈の方々は本をよく読む方が多いのでいろいろ参考になります。&lt;br&gt;
-そして人事採用活動の話に。組織を作っていく上で「人」に関すること（採用、評価、教育）はやはり重要なことだと感じました。  &lt;/p&gt;
-
-&lt;p&gt;スクラム道関西のメンバーは 6/10(土)のアジャイル ジャパン 大阪サテライト の実行委員をやっております。ぜひお越しください。&lt;br&gt;
-&lt;a href=&quot;https://agilejapan-osaka.connpass.com/&quot;&gt;https://agilejapan-osaka.connpass.com/&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/06/05/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/06/05/1/</guid>
-        
-        <category>Radio</category>
-        
-        <category>Event</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_040.mp3" length="19979846" type="audio/mpeg"/>
       </item>
       
     
