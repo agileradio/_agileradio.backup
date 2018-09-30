@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 17 Sep 2018 09:54:28 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Sep 2018 09:54:28 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Sep 2018 08:30:57 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Sep 2018 08:30:57 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,24 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>スクラム道関西のオープンジャムの話ほか</title>
+        <description>&lt;p&gt;スクラム道関西のオープンジャムって普段どんなことやってるの？という話と、認定スクラムマスター資格の更新手順の話題、キャリアパスって悩むよねの話&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/10/01/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/10/01/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_071.mp3" length="13653098" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -656,30 +674,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_042.mp3" length="17715344" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>アジャイルジャパン大阪サテライトに行ってきたよ！</title>
-        <description>&lt;p&gt;今回は、スクラム道関西メンバーが、アジャイルジャパン大阪サテライトを開催したので、
-参加した方を交えて、収録を行いました。  &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://agilejapan-osaka.connpass.com/event/54983/&quot;&gt;https://agilejapan-osaka.connpass.com/event/54983/&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;モダンアジャイルをはじめ、大阪サテライトで発表されたセッションを紹介しました。&lt;br&gt;
-来年もたぶんやると思うので、皆さん、参加してくださいね～。  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/06/19/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/06/19/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_041.mp3" length="17935606" type="audio/mpeg"/>
       </item>
       
     
