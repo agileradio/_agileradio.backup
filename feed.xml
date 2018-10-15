@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Sun, 30 Sep 2018 08:30:57 +0000</pubDate>
-    <lastBuildDate>Sun, 30 Sep 2018 08:30:57 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Oct 2018 10:00:09 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Oct 2018 10:00:09 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,27 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>RSGT2019にプロポーザルを出そう！</title>
+        <description>&lt;p&gt;RSGTは、国内最大のスクラムに関するカンファレンスです。&lt;br&gt;
+公式URL：&lt;a href=&quot;https://2019.scrumgatheringtokyo.org/index.html&quot;&gt;https://2019.scrumgatheringtokyo.org/index.html&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;現在、RSGTのプロポーザルを受け付けているので、提出しているプロポーザルについて話しました。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/10/15/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/10/15/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_072.mp3" length="18790542" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -643,37 +664,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_043.mp3" length="15899102" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>スクラム道関西のあれこれ話</title>
-        <description>&lt;p&gt;１回お休みしちゃってごめんなさい。&lt;br&gt;
-スクラム道関西メンバーの時間が合わなくて収録が追いついてませんでした。  &lt;/p&gt;
-
-&lt;p&gt;今回はチェックインで最近のアジャイルの話題から、ゆとりの話に広がりました。&lt;br&gt;
-ゆとりを作りましょうねっていつも言ってる人がゆとりが無いなんてダメですねぇ。  &lt;/p&gt;
-
-&lt;p&gt;スクラム道関西オープンジャムの開催告知はこちらで行われます。&lt;br&gt;
-&lt;a href=&quot;https://www.facebook.com/ScrumDoKansai/&quot;&gt;https://www.facebook.com/ScrumDoKansai/&lt;/a&gt;&lt;br&gt;
-誰でも気軽に遊びに来てください。  &lt;/p&gt;
-
-&lt;p&gt;ちなみに読書会やろうって話してましたが、すでにありました（笑）。&lt;br&gt;
-第1回「エラスティックリーダーシップ」読書会&lt;br&gt;
-&lt;a href=&quot;https://shin-osaka-agile.connpass.com/event/61928/&quot;&gt;https://shin-osaka-agile.connpass.com/event/61928/&lt;/a&gt;&lt;br&gt;
-エラスティックリーダーシップは読書会に向いている気がします。知らんけど。  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/07/18/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/07/18/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_042.mp3" length="17715344" type="audio/mpeg"/>
       </item>
       
     
