@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 15 Oct 2018 10:00:09 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Oct 2018 10:00:09 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Oct 2018 01:08:27 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Oct 2018 01:08:27 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,27 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>やまもとさんとますだーさん</title>
+        <description>&lt;p&gt;大忘年会&lt;br&gt;
+スプリントのコミット&lt;br&gt;
+改善推進とは&lt;br&gt;
+ファシリテータとは  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/10/30/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/10/30/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_073.mp3" length="23009424" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -636,34 +657,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_044.mp3" length="21360782" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>アジャイルモンスターとモブプログラミング(前編)</title>
-        <description>&lt;p&gt;今回はアジャイルモンスターこと、楽天株式会社の及部さんをゲストに迎え、
-モブプログラミングの話を聞きました！&lt;/p&gt;
-
-&lt;p&gt;と言いたいところですが、色々しゃべっていたら、時間がなくなっちゃっいましたｧ...
-今回は、心理的安全性の話と、モブプログラミングの話を少しだけ。。。&lt;/p&gt;
-
-&lt;p&gt;なお、いつものスタジオが借りることができなかったので音質悪めです。。。
-聴きぐるしい点、あるかと思いますがお許しください！&lt;/p&gt;
-
-&lt;p&gt;及部さんの心理的安全性に関するスライドはこちら。&lt;br&gt;
-&lt;a href=&quot;https://speakerdeck.com/takaking22/xin-li-de-an-quan-xing-nituiteben-qi-chu-sitekao-etemitarapu-duan-yatuterutimingufalsehua-datuta-number-devlove&quot;&gt;https://speakerdeck.com/takaking22/xin-li-de-an-quan-xing-nituiteben-qi-chu-sitekao-etemitarapu-duan-yatuterutimingufalsehua-datuta-number-devlove&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/07/31/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/07/31/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_043.mp3" length="15899102" type="audio/mpeg"/>
       </item>
       
     
