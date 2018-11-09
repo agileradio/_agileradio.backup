@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Tue, 30 Oct 2018 01:08:27 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Oct 2018 01:08:27 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Nov 2018 08:16:13 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Nov 2018 08:16:13 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,26 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>ワークショップを行う側が考えていること</title>
+        <description>&lt;p&gt;ワークショップを行う側が考えていることの話と
+スクラム道関西 大忘年会（11/24）の告知です。&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/104864/&quot;&gt;https://scrumdo-kansai.connpass.com/event/104864/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/11/12/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/11/12/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_074.mp3" length="12661072" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -626,37 +646,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_045.mp3" length="16300753" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>アジャイルモンスターとモブプログラミング(後編)</title>
-        <description>&lt;p&gt;【宣伝】&lt;br&gt;
-10/1(日) Scrum Boot Camp OSAKA in October 2017 が開催されます。これはスクラムの基本やその背景にある考え方を、体験を通して丸１日かけて学んでいただけるイベントです。詳しくはこちらのページで。&lt;br&gt;
-&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/64750/&quot;&gt;https://scrumdo-kansai.connpass.com/event/64750/&lt;/a&gt;  &lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2017/07/31/1/&quot;&gt;前回&lt;/a&gt;に引き続き、
-アジャイルモンスターこと、楽天株式会社の及部さんをゲストに迎え、
-モブプログラミングの話を聞きました！&lt;/p&gt;
-
-&lt;p&gt;モブプロってペアプロの延長なの？生産性悪くなるんじゃないの？とかいろんな疑問を開原が聞いてくれています。
-やはり実践者の話は参考になりますね。&lt;/p&gt;
-
-&lt;p&gt;今回も音質が悪めです。ごめんなさい。&lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/08/21/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/08/21/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_044.mp3" length="21360782" type="audio/mpeg"/>
       </item>
       
     
