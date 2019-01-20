@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 07 Jan 2019 01:32:08 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Jan 2019 01:32:08 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Jan 2019 02:17:50 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Jan 2019 02:17:50 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,25 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>ギャザリングトーク 前半</title>
+        <description>&lt;p&gt;今回は Regional Scrum Gathering® Tokyo に参加したメンバーの感想を語っています。&lt;br&gt;
+&lt;a href=&quot;https://2019.scrumgatheringtokyo.org/index.html&quot;&gt;https://2019.scrumgatheringtokyo.org/index.html&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/01/29/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/01/29/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_079.mp3" length="18497554" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -654,29 +673,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_050.mp3" length="19017913" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>開原とデスマーチ</title>
-        <description>&lt;p&gt;今回は『デスマーチ』について話しました。  &lt;/p&gt;
-
-&lt;p&gt;デスマーチってよく耳にしますがどんなものなのでしょう？田口が開原に質問しています。
-ゲーム開発にはデスマーチが存在しないのでしょうか？  &lt;/p&gt;
-
-&lt;p&gt;開原「デスマーチは油断するとすぐになる！」  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2017/11/06/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2017/11/06/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_049.mp3" length="19508179" type="audio/mpeg"/>
       </item>
       
     
