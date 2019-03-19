@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Tue, 19 Mar 2019 02:05:28 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Mar 2019 02:05:28 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Mar 2019 02:09:46 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Mar 2019 02:09:46 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -25,9 +25,12 @@
     
       
       <item>
-        <title>スクラムフェス大阪トーク その１</title>
-        <description>&lt;p&gt;今回は、スクラムフェス大阪の基調公演でご講演いただいた『きょん』さんにお越しいただき、
-スクラムフェス大阪について語りました。  &lt;/p&gt;
+        <title>Scrum Fest Osaka 2019 トーク その１</title>
+        <description>&lt;p&gt;今回は、Scrum Fest Osaka 2019 の基調公演でご講演いただいた『きょん』さんにお越しいただき、
+Scrum Fest Osaka 2019 について語りました。  &lt;/p&gt;
+
+&lt;p&gt;Scrum Fest Osaka 2019 公式ホームページ&lt;br&gt;
+&lt;a href=&quot;https://www.scrumosaka.org/&quot;&gt;https://www.scrumosaka.org/&lt;/a&gt;  &lt;/p&gt;
 
 &lt;p&gt;きょん氏Twitter&lt;br&gt;
 &lt;a href=&quot;https://twitter.com/kyon_mm&quot;&gt;https://twitter.com/kyon_mm&lt;/a&gt;  &lt;/p&gt;
