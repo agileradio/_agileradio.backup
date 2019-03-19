@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Tue, 05 Mar 2019 01:47:49 +0000</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2019 01:47:49 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Mar 2019 02:05:28 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Mar 2019 02:05:28 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,28 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>スクラムフェス大阪トーク その１</title>
+        <description>&lt;p&gt;今回は、スクラムフェス大阪の基調公演でご講演いただいた『きょん』さんにお越しいただき、
+スクラムフェス大阪について語りました。  &lt;/p&gt;
+
+&lt;p&gt;きょん氏Twitter&lt;br&gt;
+&lt;a href=&quot;https://twitter.com/kyon_mm&quot;&gt;https://twitter.com/kyon_mm&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/03/18/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/03/18/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_083.mp3" length="15993350" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -633,34 +655,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_054.mp3" length="23946134" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>CCPMとアジャイル談義 その2</title>
-        <description>&lt;p&gt;あけましておめでとうございます。&lt;br&gt;
-本年もアジャイルラジオとスクラム道関西をよろしくお願いします。  &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://agileradio.github.io/2017/12/25/1/&quot;&gt;前回&lt;/a&gt;に引き続き、
-&lt;a href=&quot;https://www.facebook.com/michonpu.mitsuhiro&quot;&gt;小路慎浩さん&lt;/a&gt;と
-&lt;a href=&quot;https://www.facebook.com/matsuyama.ryuzo&quot;&gt;松山竜蔵さん&lt;/a&gt;を
-ゲストにお呼びしてCCPMについてお話いただきました。&lt;br&gt;
-前回と含めてCCPMの本質を聞けた気がします。
-そしてプロセスうんぬんの話を越えためっちゃいい話が聴けました。  &lt;/p&gt;
-
-&lt;p&gt;この放送をきっかけにCCPMが少しでも広がると面白いなと思っています。&lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2018/01/08/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2018/01/08/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_053.mp3" length="19755611" type="audio/mpeg"/>
       </item>
       
     
