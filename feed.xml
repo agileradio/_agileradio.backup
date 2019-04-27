@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Sat, 27 Apr 2019 06:14:14 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Apr 2019 06:14:14 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Apr 2019 06:17:45 +0000</pubDate>
+    <lastBuildDate>Sat, 27 Apr 2019 06:17:45 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -25,26 +25,20 @@
     
       
       <item>
-        <title>Scrum Fest Osaka 2019 トーク その２</title>
-        <description>&lt;p&gt;前回に引き続き、Scrum Fest Osaka 2019 の基調公演でご講演いただいた『きょん』さんにお越しいただき、
-Scrum Fest Osaka 2019 について語りました。  &lt;/p&gt;
-
-&lt;p&gt;Scrum Fest Osaka 2019 公式ホームページ&lt;br&gt;
-&lt;a href=&quot;https://www.scrumosaka.org/&quot;&gt;https://www.scrumosaka.org/&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;きょん氏Twitter&lt;br&gt;
-&lt;a href=&quot;https://twitter.com/kyon_mm&quot;&gt;https://twitter.com/kyon_mm&lt;/a&gt;  &lt;/p&gt;
+        <title>スクラム道関西 x 楽天　スクラム Meet up</title>
+        <description>&lt;p&gt;今回は先日行われました『スクラム道関西 x 楽天　スクラム Meet up』の様子を話しました。&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/125472/&quot;&gt;https://scrumdo-kansai.connpass.com/event/125472/&lt;/a&gt;  &lt;/p&gt;
 
 &lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
 </description>
-        <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2019/04/15/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2019/04/15/1/</guid>
+        <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/04/29/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/04/29/1/</guid>
         
         <category>Radio</category>
         
         
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_084.mp3" length="16904192" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_085.mp3" length="14901124" type="audio/mpeg"/>
       </item>
       
     

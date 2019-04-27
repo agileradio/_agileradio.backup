@@ -9,8 +9,8 @@
 
 	
 	<url>
-	 	<loc>http://agileradio.github.io/2019/04/15/1/</loc>
-	 	<lastmod>2019-04-15</lastmod>
+	 	<loc>http://agileradio.github.io/2019/04/29/1/</loc>
+	 	<lastmod>2019-04-29</lastmod>
 	 	<changefreq>never</changefreq>
 	</url>
 	
@@ -539,6 +539,12 @@
 	<url>
 	 	<loc>http://agileradio.github.io/2015/11/12/1/</loc>
 	 	<lastmod>2015-11-12</lastmod>
+	 	<changefreq>never</changefreq>
+	</url>
+	
+	<url>
+	 	<loc>http://agileradio.github.io/2015/11/11/1.md/</loc>
+	 	<lastmod>2015-11-11</lastmod>
 	 	<changefreq>never</changefreq>
 	</url>
 	
