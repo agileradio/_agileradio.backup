@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Sat, 27 Apr 2019 06:17:45 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Apr 2019 06:17:45 +0000</lastBuildDate>
+    <pubDate>Mon, 06 May 2019 02:39:28 +0000</pubDate>
+    <lastBuildDate>Mon, 06 May 2019 02:39:28 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,25 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>スクラムを始めるなら何からする？</title>
+        <description>&lt;p&gt;今回は、スクラム道関西のオープンジャムでもよく話題に挙がる『スクラムを始めるなら何からする？』について話しました。&lt;br&gt;
+みなさんは何から始めますか？&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/05/13/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/05/13/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_086.mp3" length="17124349" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -63,7 +82,7 @@ Scrum Fest Osaka 2019 について語りました。  &lt;/p&gt;
         <category>Radio</category>
         
         
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_084.mp3" length="16904192" type="audio/mpeg"/>
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_084.mp3" length="16901059" type="audio/mpeg"/>
       </item>
       
     
@@ -630,27 +649,6 @@ connpassの方で告知しますのでお待ちください。&lt;br&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_058.mp3" length="19831680" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>スクラム道関西定例会100回</title>
-        <description>&lt;p&gt;今回はスクラム道関西の定例会が100回を迎えたのでその話をしました。
-100回すごい。継続は力なりですね。  &lt;/p&gt;
-
-&lt;p&gt;これからもスクラム道関西は開発者のみなさんがいつも笑顔で開発できるような世界を目指して頑張って行きます。定例会にも遊びに来てくださいね。&lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2018/03/05/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2018/03/05/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_057.mp3" length="14817115" type="audio/mpeg"/>
       </item>
       
     
