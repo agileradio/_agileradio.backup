@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 21 Oct 2019 01:18:38 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Oct 2019 01:18:38 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Oct 2019 00:09:07 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Oct 2019 00:09:07 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,24 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>最近読んでる書籍紹介</title>
+        <description>&lt;p&gt;今回はスクラム道関西の山本とマスダーとによる最近読んでる書籍紹介です。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/11/04/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/11/04/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_096.mp3" length="18249286" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -630,25 +648,6 @@ Scrum Fest Osaka 2019 について語りました。  &lt;/p&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_068.mp3" length="33036889" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>スクラム開発を短時間で説明する</title>
-        <description>&lt;p&gt;スクラム道関西のオープンジャムで出た『スクラム開発を短時間で説明する』を話しました。&lt;br&gt;
-みなさんだったらスクラム開発をどういう風に説明しますか？  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2018/08/06/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2018/08/06/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_067.mp3" length="18412923" type="audio/mpeg"/>
       </item>
       
     
