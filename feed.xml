@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 25 Nov 2019 02:50:35 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Nov 2019 02:50:35 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Dec 2019 02:31:49 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Dec 2019 02:31:49 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,25 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>TDD研修の話</title>
+        <description>&lt;p&gt;今回は、Regional SCRUM GATHERING Tokyo のチケット争奪戦の模様と、
+マスダーがTDD研修を受けた話をしました。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/12/09/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/12/09/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_098.mp3" length="16097424" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -635,24 +654,6 @@ Scrum Fest Osaka 2019 について語りました。  &lt;/p&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_070.mp3" length="18093079" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>人生の目標を見失っている男たちの巻</title>
-        <description>&lt;p&gt;JIN-SAY!の迷い人、開原と和田が台風と仕事における目標について語りました。結局、迷ってばかりなんですけどね。。。&lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2018/09/03/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2018/09/03/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_069.mp3" length="15476127" type="audio/mpeg"/>
       </item>
       
     
