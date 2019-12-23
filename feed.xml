@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 09 Dec 2019 06:40:33 +0000</pubDate>
-    <lastBuildDate>Mon, 09 Dec 2019 06:40:33 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Dec 2019 01:42:09 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Dec 2019 01:42:09 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,47 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>2019年ふりかえり</title>
+        <description>&lt;p&gt;今回は、2019年スクラム道関西の活動をふりかえりました。&lt;br&gt;
+今年の活動内容は下記の通りです。合計４８回活動を行いました  &lt;/p&gt;
+
+&lt;p&gt;・オープンジャム：２１回開催&lt;br&gt;
+　&lt;a href=&quot;https://scrumdo-kansai.connpass.com/&quot;&gt;https://scrumdo-kansai.connpass.com/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;・アジャイルラジオ：２２回公開&lt;br&gt;
+　&lt;a href=&quot;https://agileradio.github.io/&quot;&gt;https://agileradio.github.io/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;・Scrum Boot Camp OSAKA：２回開催&lt;br&gt;
+　&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/127514/&quot;&gt;https://scrumdo-kansai.connpass.com/event/127514/&lt;/a&gt;&lt;br&gt;
+　&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/149848/&quot;&gt;https://scrumdo-kansai.connpass.com/event/149848/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;・スクラム道関西 x 楽天　スクラム Meet up&lt;br&gt;
+　&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/125472/&quot;&gt;https://scrumdo-kansai.connpass.com/event/125472/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;・認定スクラムマスター資格の更新をモブワークでやろうの会&lt;br&gt;
+　&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/124998/&quot;&gt;https://scrumdo-kansai.connpass.com/event/124998/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;・スクラム道関西★大忘年会2019&lt;br&gt;
+　&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/147102/&quot;&gt;https://scrumdo-kansai.connpass.com/event/147102/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;また、Scrum Fest Osakaは下記サイトで確認ください。&lt;br&gt;
+&lt;a href=&quot;https://www.scrumosaka.org/&quot;&gt;https://www.scrumosaka.org/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/12/23/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/12/23/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_099.mp3" length="11925046" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -636,24 +677,6 @@ Scrum Fest Osaka 2019 について語りました。  &lt;/p&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_071.mp3" length="13653098" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>アジャイルジャパン大阪サテライトと社内読書会</title>
-        <description>&lt;p&gt;今回は、開原と和田で、アジャイルジャパン大阪サテライトと、社内読書会について話しました。  &lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2018/09/17/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2018/09/17/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_070.mp3" length="18093079" type="audio/mpeg"/>
       </item>
       
     

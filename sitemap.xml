@@ -3,10 +3,16 @@
 
 	<url>
 	 	<loc>http://agileradio.github.io/</loc>
-	 	<lastmod>2019-12-09</lastmod>
+	 	<lastmod>2019-12-23</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
+	
+	<url>
+	 	<loc>http://agileradio.github.io/2019/12/23/1/</loc>
+	 	<lastmod>2019-12-23</lastmod>
+	 	<changefreq>never</changefreq>
+	</url>
 	
 	<url>
 	 	<loc>http://agileradio.github.io/2019/12/09/1/</loc>
@@ -629,7 +635,7 @@
 
 	<url>
 		<loc>http://agileradio.github.io/tags/</loc>
-		<lastmod>2019-12-09</lastmod>
+		<lastmod>2019-12-23</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 
@@ -638,7 +644,7 @@
 	
 	<url>
 		<loc>http://agileradio.github.io/tags/Radio/</loc>
-		<lastmod>2019-12-09</lastmod>
+		<lastmod>2019-12-23</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	
@@ -647,7 +653,7 @@
 	
 	<url>
 		<loc>http://agileradio.github.io/tags/Event/</loc>
-		<lastmod>2019-12-09</lastmod>
+		<lastmod>2019-12-23</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	
@@ -656,7 +662,7 @@
 	
 	<url>
 		<loc>http://agileradio.github.io/tags/DevOps/</loc>
-		<lastmod>2019-12-09</lastmod>
+		<lastmod>2019-12-23</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	
@@ -665,7 +671,7 @@
 	
 	<url>
 		<loc>http://agileradio.github.io/tags/Coach/</loc>
-		<lastmod>2019-12-09</lastmod>
+		<lastmod>2019-12-23</lastmod>
 		<changefreq>weekly</changefreq>
 	</url>
 	
