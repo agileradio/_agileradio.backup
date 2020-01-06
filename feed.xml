@@ -6,8 +6,8 @@
     <title>アジャイルラジオ</title>
     <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
     <link>http://agileradio.github.io/</link>
-    <pubDate>Mon, 23 Dec 2019 01:42:09 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Dec 2019 01:42:09 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jan 2020 05:17:08 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jan 2020 05:17:08 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
     <itunes:author>AgileRadio</itunes:author>
@@ -22,6 +22,28 @@
     <itunes:category text="Agile"/>
     </itunes:category>
 
+    
+      
+      <item>
+        <title>祝100回記念！</title>
+        <description>&lt;p&gt;リスナーの皆様のおかげで、アジャイルラジオもついに100回を迎えました。
+ありがとうございます。&lt;br&gt;
+今後もアジャイルラジオは、アジャイルを世界に発信していきます。  &lt;/p&gt;
+
+&lt;p&gt;今回は、みんなで過去のアジャイルラジオをふりかえってみました。大勢で話してるのでちょっと聞き取りにくいかも知れませんがご了承下さい。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2020/01/06/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2020/01/06/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_100.mp3" length="14215773" type="audio/mpeg"/>
+      </item>
+      
     
       
       <item>
@@ -659,24 +681,6 @@ Scrum Fest Osaka 2019 について語りました。  &lt;/p&gt;
         
         
         <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_072.mp3" length="18790542" type="audio/mpeg"/>
-      </item>
-      
-    
-      
-      <item>
-        <title>スクラム道関西のオープンジャムの話ほか</title>
-        <description>&lt;p&gt;スクラム道関西のオープンジャムって普段どんなことやってるの？という話と、認定スクラムマスター資格の更新手順の話題、キャリアパスって悩むよねの話&lt;/p&gt;
-
-&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-        <link>http://agileradio.github.io/2018/10/01/1/</link>
-        <guid isPermaLink="true">http://agileradio.github.io/2018/10/01/1/</guid>
-        
-        <category>Radio</category>
-        
-        
-        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_071.mp3" length="13653098" type="audio/mpeg"/>
       </item>
       
     
